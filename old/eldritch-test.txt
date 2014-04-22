@@ -1,0 +1,109 @@
+$BUILT 2014-03-25 17:44:51
+$AUTHOR Amanda
+$GERMAN
+$ENGLISH Eldritch Test
+
+#SIZE_X 652
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 40
+#REQUIRED 25
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#CUBER 5
+#BASHER 1
+#BUILDER 12
+#MINER 1
+#BURNER -1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:amanda/occult/hatch_tentacle.H: 12 -10
+
+:amanda/occult/occult_goal_skull.G: 492 36
+
+:amanda/occult/occult_wax64x48: 128 176
+:amanda/occult/occult_wax64x48: 128 128
+:amanda/occult/occult_wax64x48: 128 96
+:amanda/occult/occult_wax32x48_cap_left_sheer: 160 48
+:amanda/occult/occult_wax32x48: 224 144
+:amanda/occult/occult_wax64x48: 224 176
+:amanda/occult/occult_wax32x16_b: 192 208
+:amanda/occult/occult_wax32x16: 192 192
+:amanda/occult/occult_wax32x16_b: 192 176
+:amanda/occult/occult_wax32x16: 192 160
+:amanda/occult/occult_wax32x16_b: 192 144
+:amanda/occult/occult_wax32x16_cap_right: 288 160
+:amanda/occult/occult_wax32x48_cap_right_sheer: 288 176
+:amanda/occult/occult_wax64x48: 256 128
+:amanda/occult/occult_wax64x64: 256 64
+:amanda/occult/occult_wax32x16_cap_left: 96 208
+:amanda/occult/occult_wax64x48: 64 160
+:amanda/occult/occult_wax64x64: 64 112
+:amanda/occult/occult_wax32x48: 192 96
+:amanda/occult/occult_wax32x48: 224 96
+:amanda/occult/occult_wax32x16_cap_right: 224 96
+:amanda/occult/occult_wax64x48: 192 48
+:amanda/steel/steel32x32.S: 192 96
+:amanda/occult/occult_wax32x16_cap_right: 256 48
+:amanda/occult/occult_wax_details_drip: 354 182
+:amanda/occult/occult_wax32x16_b: 352 160
+:amanda/occult/occult_wax32x16: 320 160
+:amanda/occult/occult_wax64x48: 320 112
+:amanda/occult/occult_wax32x48_cap_right_soft: 320 64
+:amanda/occult/occult_wax32x16_cap_left: 96 96
+:amanda/occult/occult_wax32x48_cap_left_sheer: 32 160
+:amanda/occult/occult_wax32x16_cap_right: 384 160
+:amanda/occult/occult_wax32x48_cap_right_soft: 384 112
+:amanda/occult/occult_wax_details_sunken_cube: 195 32
+:amanda/occult/occult_wax_details_sunken_lix: 115 88
+:amanda/occult/occult_wax_details_sunken_lix_b: 239 31
+:amanda/occult/occult_wax32x48_cap_left_sheer: 480 176
+:amanda/occult/occult_wax32x16_cap_left: 480 160
+:amanda/occult/occult_skulls32x32: 432 144 frr
+:amanda/occult/occult_skulls32x32: 418 112
+:amanda/occult/occult_wax32x16_cap_right: 548 148
+:amanda/occult/occult_wax32x16_cap_left: 518 148
+:amanda/occult/occult_skulls32x32: 448 128
+:amanda/occult/occult_skulls32x32: 458 110
+:amanda/occult/occult_skulls32x32: 384 112
+:amanda/occult/occult_skulls32x32: 398 142
+:amanda/occult/occult_skulls32x32: 428 150
+:amanda/occult/occult_wax64x64: 512 160
+:amanda/occult/occult_wax32x16: 576 160
+:amanda/occult/occult_wax64x48: 528 112
+:amanda/occult/occult_wax32x48: 576 176
+:amanda/occult/occult_wax_details_drip: 562 162
+:amanda/steel/steel32x32.S: 224 80
+:amanda/steel/steel32x32.S: 256 96
+:amanda/steel/steel32x32.S: 224 112
+:amanda/occult/occult_scrawl_pentagram: 272 124
+:amanda/occult/overlays/occult_steel_overlay32x32_c.S: 224 112
+:amanda/steel/steel32x32.S: 432 48
+:amanda/steel/steel32x32.S: 432 16
+:amanda/occult/overlays/occult_steel_overlay32x32_c.S: 432 48
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 192 96
+:amanda/steel/steel32x32.S: 432 -16
+:amanda/steel/steel32x32.S: 464 0
+:amanda/steel/steel32x32.S: 496 0
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 496 0
+:amanda/steel/steel32x32.S: 528 -16
+:amanda/steel/steel32x32.S: 400 0
+:amanda/occult/occult_wax_details_drip_b: 496 32
+:amanda/occult/occult_wax32x48_cap_left_soft: 496 112
+:amanda/occult/occult_wax32x48_cap_right_sheer: 608 176
+:amanda/occult/occult_wax32x16_cap_right: 598 159
+:amanda/occult/occult_wax32x48_cap_right_soft: 592 112
+:amanda/occult/occult_wax32x48_cap_left_soft: 32 112

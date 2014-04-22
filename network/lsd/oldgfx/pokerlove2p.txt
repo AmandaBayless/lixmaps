@@ -1,0 +1,147 @@
+$BUILT 2014-04-18 03:54:08
+$AUTHOR geoo
+$GERMAN 
+$ENGLISH Let's play Poker and Dance (2p)
+
+#SIZE_X 640
+#SIZE_Y 560
+#TORUS_X 0
+#TORUS_Y 1
+#START_X 0
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 60
+#INITIAL 5
+#REQUIRED 5
+#SPAWN_INTERVAL 16
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#BUILDER 3
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#SHRUGGER 2
+#NOTHING 0
+#NOTHING 0
+
+:Circus-s0: 64 496
+:Circus-s0: 480 496 r
+:Circus-s0: 64 48
+:Circus-s0: 480 48 r
+:Circus-s0: 64 160
+:Circus-s0: 480 160 r
+:Circus-s0: 64 272
+:Circus-s0: 480 272 r
+:Circus-s0: 64 384
+:Circus-s0: 480 384 r
+
+:Circus-s1: 560 528
+:Circus-s1: 16 528
+:Circus-s1: 560 80
+:Circus-s1: 16 80
+:Circus-s1: 560 192
+:Circus-s1: 16 192
+:Circus-s1: 560 304
+:Circus-s1: 16 304
+:Circus-s1: 560 416
+:Circus-s1: 16 416
+
+:Polar-s7: 336 48
+:Polar-s7: 336 160
+:Polar-s7: 336 272
+:Polar-s7: 336 384
+:Polar-s7: 336 496
+:Polar-s7: 240 496
+:Polar-s7: 240 384
+:Polar-s7: 240 272
+:Polar-s7: 240 160
+:Polar-s7: 240 48
+
+:Circus-t0: 16 128
+:Circus-t1: 112 128
+:Circus-t8: 48 128
+:Circus-t9: 80 128
+:Circus-t0: 144 128
+:Circus-t1: 240 128
+:Circus-t8: 176 128
+:Circus-t9: 208 128
+:Circus-t0: 16 240
+:Circus-t1: 112 240
+:Circus-t8: 48 240
+:Circus-t9: 80 240
+:Circus-t0: 144 240
+:Circus-t1: 240 240
+:Circus-t8: 176 240
+:Circus-t9: 208 240
+:Circus-t0: 16 352
+:Circus-t1: 112 352
+:Circus-t8: 48 352
+:Circus-t9: 80 352
+:Circus-t0: 144 352
+:Circus-t1: 240 352
+:Circus-t8: 176 352
+:Circus-t9: 208 352
+:Circus-t0: 16 464
+:Circus-t1: 112 464
+:Circus-t8: 48 464
+:Circus-t9: 80 464
+:Circus-t0: 144 464
+:Circus-t1: 240 464
+:Circus-t8: 176 464
+:Circus-t9: 208 464
+:Circus-t0: 16 16
+:Circus-t1: 112 16
+:Circus-t8: 48 16
+:Circus-t9: 80 16
+:Circus-t0: 144 16
+:Circus-t1: 240 16
+:Circus-t8: 176 16
+:Circus-t9: 208 16
+:Circus-t0: 368 128
+:Circus-t1: 464 128
+:Circus-t8: 400 128
+:Circus-t9: 432 128
+:Circus-t0: 496 128
+:Circus-t1: 592 128
+:Circus-t8: 528 128
+:Circus-t9: 560 128
+:Circus-t0: 368 240
+:Circus-t1: 464 240
+:Circus-t8: 400 240
+:Circus-t9: 432 240
+:Circus-t0: 496 240
+:Circus-t1: 592 240
+:Circus-t8: 528 240
+:Circus-t9: 560 240
+:Circus-t0: 368 352
+:Circus-t1: 464 352
+:Circus-t8: 400 352
+:Circus-t9: 432 352
+:Circus-t0: 496 352
+:Circus-t1: 592 352
+:Circus-t8: 528 352
+:Circus-t9: 560 352
+:Circus-t0: 368 464
+:Circus-t1: 464 464
+:Circus-t8: 400 464
+:Circus-t9: 432 464
+:Circus-t0: 496 464
+:Circus-t1: 592 464
+:Circus-t8: 528 464
+:Circus-t9: 560 464
+:Circus-t0: 368 16
+:Circus-t1: 464 16
+:Circus-t8: 400 16
+:Circus-t9: 432 16
+:Circus-t0: 496 16
+:Circus-t1: 592 16
+:Circus-t8: 528 16
+:Circus-t9: 560 16

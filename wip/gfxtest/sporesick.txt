@@ -1,0 +1,60 @@
+$BUILT 2014-03-26 02:27:00
+$AUTHOR Amanda
+$GERMAN Sporenkrank
+$ENGLISH Sporesick
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 30
+#REQUIRED 20
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:amanda/occult/hatch_tentacle.H: 80 48
+
+:amanda/occult/occult_goal_skull.G: 242 120
+
+:amanda/fungus/fungus_solid32x32_top: 96 192
+:amanda/fungus/fungus_solid32x32: 128 224
+:amanda/fungus/fungus_solid32x32: 160 224
+:amanda/fungus/fungus_solid32x32_top: 128 192
+:amanda/fungus/fungus_solid32x32_top: 160 192
+:amanda/fungus/fungus_solid32x32: 96 256
+:amanda/fungus/fungus_solid32x32_b: 96 224
+:amanda/fungus/fungus_solid32x32_b: 128 256
+:amanda/fungus/fungus_solid32x32_b: 160 256
+:amanda/fungus/fungus_solid32x32_top: 192 192
+:amanda/fungus/fungus_solid32x32_top: 224 192
+:amanda/fungus/fungus_solid32x32_top: 256 192
+:amanda/fungus/fungus_solid32x32_top: 288 192
+:amanda/fungus/fungus_solid32x32_top: 320 192
+:amanda/fungus/fungus_solid32x32: 224 224
+:amanda/fungus/fungus_solid32x32: 256 224
+:amanda/fungus/fungus_solid32x32: 192 256
+:amanda/fungus/fungus_solid32x32_b: 192 224
+:amanda/fungus/fungus_solid32x32_b: 224 256
+:amanda/fungus/fungus_solid32x32_b: 256 256
+:amanda/fungus/fungus_solid32x32: 320 224
+:amanda/fungus/fungus_solid32x32: 288 256
+:amanda/fungus/fungus_solid32x32_b: 288 224
+:amanda/fungus/fungus_solid32x32_b: 320 256

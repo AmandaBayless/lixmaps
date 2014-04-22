@@ -1,0 +1,182 @@
+$BUILT 2014-04-18 16:48:54
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH A Tribute to Symmetry (2p)
+
+#SIZE_X 2016
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 96
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 16
+#BACKGROUND_BLUE 4
+
+#SECONDS 20
+#INITIAL 140
+#REQUIRED 11
+#SPAWN_INTERVAL 5
+#SPAWN_INTERVAL_FAST 4
+
+#EXPLODER2 -1
+#JUMPER 50
+#BATTER 30
+#PLATFORMER 20
+#BLOCKER -1
+#BUILDER 0
+#MINER 1
+#WALKER 1
+#FLOATER 100
+#DIGGER 2
+#NOTHING 0
+#NOTHING 0
+
+:amanda/occult/hatch_tentacle.H: 622 -29
+:amanda/occult/hatch_tentacle.H: 1555 57
+:amanda/occult/hatch_tentacle.H: 799 96
+:amanda/occult/hatch_tentacle.H: 1697 7 r
+:amanda/occult/hatch_tentacle.H: 747 -11
+:amanda/occult/hatch_tentacle.H: 1399 -17 r
+
+:matt/oriental/Goal.G: 1859 115
+:matt/oriental/Goal.G: 653 89
+
+:matt/beach/decor/beach ball: 703 35
+:matt/beach/decor/beach ball: 688 22
+:matt/beach/decor/beach ball: 685 25
+:matt/beach/decor/beach ball: 656 35
+:matt/beach/decor/beach ball: 652 60
+:matt/beach/decor/beach ball: 652 88
+:matt/beach/decor/beach ball: 681 103
+:matt/beach/decor/beach ball: 705 117
+:matt/beach/decor/beach ball: 712 144
+:amanda/steel/steel32x32.S: 668 165
+:matt/beach/decor/beach ball: 695 162
+:matt/beach/decor/beach ball: 668 171
+:matt/beach/decor/beach ball: 655 165
+:matt/beach/decor/beach ball: 745 14
+:matt/beach/decor/beach ball: 759 31
+:matt/beach/decor/beach ball: 772 49
+:matt/beach/decor/beach ball: 781 62
+:matt/beach/decor/beach ball: 799 35
+:matt/beach/decor/beach ball: 815 30
+:matt/beach/decor/beach ball: 821 21
+:matt/beach/decor/beach ball: 776 74
+:matt/beach/decor/beach ball: 786 94
+:matt/beach/decor/beach ball: 788 118
+:matt/beach/decor/beach ball: 788 145
+:matt/beach/decor/beach ball: 788 171
+:matt/beach/decor/beach ball: 839 167
+:matt/beach/decor/beach ball: 865 135
+:matt/beach/decor/beach ball: 873 93
+:matt/beach/decor/beach ball: 872 54
+:matt/beach/decor/beach ball: 878 57
+:matt/beach/decor/beach ball: 899 92
+:matt/beach/decor/beach ball: 916 131
+:matt/beach/decor/beach ball: 930 118
+:matt/beach/decor/beach ball: 941 96
+:matt/beach/decor/beach ball: 950 90
+:matt/beach/decor/beach ball: 958 47
+:matt/beach/decor/beach ball: 966 70
+:matt/beach/decor/beach ball: 983 109
+:matt/beach/decor/beach ball: 996 139
+:matt/beach/decor/beach ball: 1008 162
+:matt/beach/decor/beach ball: 1022 151
+:matt/beach/decor/beach ball: 1030 119
+:matt/beach/decor/beach ball: 1042 82
+:matt/beach/decor/beach ball: 1058 54
+:matt/beach/decor/beach ball: 1068 49
+:matt/beach/decor/beach ball: 1084 95
+:matt/beach/decor/beach ball: 1095 111
+:matt/beach/decor/beach ball: 1106 84
+:matt/beach/decor/beach ball: 1125 70
+:matt/beach/decor/beach ball: 1138 43
+:matt/beach/decor/beach ball: 1148 95
+:matt/beach/decor/beach ball: 1156 127
+:matt/beach/decor/beach ball: 1166 156
+:matt/beach/decor/beach ball: 1175 166
+:matt/beach/decor/pail: 208 216
+:matt/beach/decor/umbrella_yellow: 227 145
+:matt/beach/decor/beach ball: 1236 37
+:matt/beach/decor/beach ball: 1229 48
+:matt/beach/decor/beach ball: 1232 85
+:matt/beach/decor/beach ball: 1238 111
+:matt/beach/decor/beach ball: 1237 138
+:matt/beach/decor/beach ball: 1242 166
+:matt/beach/decor/beach ball: 1259 157
+:matt/beach/decor/beach ball: 1274 39
+:matt/beach/decor/beach ball: 1303 47
+:matt/beach/decor/beach ball: 1319 53
+:matt/beach/decor/beach ball: 1271 103
+:matt/beach/decor/beach ball: 1301 105
+:matt/beach/decor/beach ball: 1320 111
+:matt/beach/decor/beach ball: 1365 46
+:matt/beach/decor/beach ball: 1283 166
+:matt/beach/decor/beach ball: 1309 173
+:matt/beach/decor/beach ball: 1327 181
+:matt/beach/decor/beach ball: 1335 189
+:matt/beach/decor/beach ball: 1399 51
+:matt/beach/decor/beach ball: 1423 45
+:matt/beach/decor/beach ball: 1453 45
+:matt/beach/decor/beach ball: 1485 44
+:matt/beach/decor/beach ball: 1404 59
+:matt/beach/decor/beach ball: 1423 81
+:matt/beach/decor/beach ball: 1423 110
+:matt/beach/decor/beach ball: 1427 143
+:matt/beach/decor/beach ball: 1439 170
+:matt/beach/decor/beach ball: 1449 180
+:matt/beach/decor/beach ball: 1556 36
+:matt/beach/decor/beach ball: 1558 68
+:matt/beach/decor/beach ball: 1553 105
+:matt/beach/decor/beach ball: 1561 141
+:matt/beach/decor/beach ball: 1560 173
+:matt/beach/decor/beach ball: 1572 31
+:matt/beach/decor/beach ball: 1602 39
+:matt/beach/decor/beach ball: 1617 80
+:matt/beach/decor/beach ball: 1582 104
+:matt/beach/decor/beach ball: 1573 128
+:matt/beach/decor/beach ball: 1615 161
+:matt/beach/decor/beach ball: 1635 191
+:matt/beach/decor/beach ball: 1587 140
+:matt/beach/decor/beach ball: 1687 28
+:matt/beach/decor/beach ball: 1699 45
+:matt/beach/decor/beach ball: 1714 76
+:matt/beach/decor/beach ball: 1729 100
+:matt/beach/decor/beach ball: 1740 93
+:matt/beach/decor/beach ball: 1759 65
+:matt/beach/decor/beach ball: 1772 46
+:matt/beach/decor/beach ball: 1781 52
+:matt/beach/decor/beach ball: 1800 22
+:matt/beach/decor/beach ball: 1722 116
+:matt/beach/decor/beach ball: 1730 140
+:matt/beach/decor/beach ball: 1734 170
+:matt/beach/decor/beach ball: 1735 195
+:matt/beach/decor/beach ball: 1743 205
+:matt/beach/decor/umbrella_yellow: 1504 258
+:matt/beach/decor/umbrella_blue: 1462 319
+:matt/beach/decor/umbrella_red: 1196 257
+:matt/beach/decor/umbrella_green: 1163 322 frr
+:amanda/steel/steel32x32.S: 1875 192
+:amanda/steel/steel32x32.S: 1892 184
+:amanda/steel/steel32x32.S: 1911 202
+:amanda/steel/steel32x32.S: 1885 222
+:amanda/steel/steel32x32.S: 1864 221
+:amanda/steel/steel32x32.S: 1850 207
+:amanda/steel/steel32x32.S: 1879 203
+:matt/beach/decor/beach ball: 849 283
+:matt/beach/decor/beach ball: 833 265
+:matt/beach/decor/beach ball: 812 264
+:matt/beach/decor/beach ball: 806 282
+:matt/beach/decor/beach ball: 812 303
+:matt/beach/decor/beach ball: 829 324
+:matt/beach/decor/beach ball: 849 347
+:matt/beach/decor/beach ball: 861 364
+:matt/beach/decor/beach ball: 868 293
+:matt/beach/decor/beach ball: 880 277
+:matt/beach/decor/beach ball: 900 254
+:matt/beach/decor/beach ball: 922 265
+:matt/beach/decor/beach ball: 923 291
+:matt/beach/decor/beach ball: 914 318
+:matt/beach/decor/beach ball: 880 350
+:matt/beach/decor/beach ball: 900 331

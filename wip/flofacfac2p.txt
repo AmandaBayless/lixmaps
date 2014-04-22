@@ -1,0 +1,137 @@
+$BUILT 2014-04-19 00:30:25
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Float Factory Factory
+
+#SIZE_X 640
+#SIZE_Y 720
+#TORUS_X 1
+#TORUS_Y 1
+#BACKGROUND_RED 51
+#BACKGROUND_GREEN 48
+#BACKGROUND_BLUE 49
+
+#SECONDS 140
+#INITIAL 30
+#REQUIRED 20
+#SPAWN_INTERVAL 6
+#SPAWN_INTERVAL_FAST 1
+
+#FLOATER 3
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#JUMPER -1
+#BATTER -1
+#WALKER 40
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:simon/hatch001.H: 482 38 r
+
+:geoo/construction/Goal2.G: 528 310
+
+:geoo/construction/factory.T: 242 246
+:geoo/construction/factory.T: 292 246
+:geoo/construction/factory.T: 342 246
+:geoo/construction/squisher.T: 288 374
+:geoo/construction/squisher.T: 224 374
+:geoo/construction/factory.T: 184 518
+:geoo/construction/factory.T: 240 518
+:geoo/construction/factory.T: 592 422
+:geoo/construction/factory.T: 380 546
+:geoo/construction/factory.T: 412 646
+:geoo/construction/factory.T: 544 120
+:geoo/construction/factory.T: 608 120
+
+:geoo/construction/concrete/032c: 626 246
+:geoo/construction/rod_rust/straight_diagd32: 610 223
+:geoo/construction/concrete/064h: 544 182
+:geoo/construction/pillar_32: 208 182
+:geoo/construction/pillar_32: 390 214
+:geoo/construction/pillar_32: 390 246
+:geoo/construction/pillar_32: 390 278
+:geoo/construction/pillar_base: 374 182
+:geoo/construction/pillar_top_shaded: 390 198
+:geoo/construction/rod_steel/straight32.S: 176 350
+:geoo/construction/pillar_top_shaded: 208 300
+:geoo/construction/concrete/064h: 208 310
+:geoo/construction/pillar_base: 192 214
+:geoo/construction/pillar_base: 192 284
+:geoo/construction/concrete/128: 336 310
+:geoo/construction/concrete/016ha: 352 390 d
+:geoo/construction/concrete/016hd: 336 422 d
+:geoo/construction/concrete/016ha: 384 374 d
+:geoo/construction/concrete/016hd: 368 406 d
+:geoo/construction/concrete/016ha: 416 358 d
+:geoo/construction/concrete/016hd: 400 390 d
+:geoo/construction/concrete/016ha: 448 342 d
+:geoo/construction/concrete/016hd: 464 358 d
+:geoo/construction/concrete/016hd: 432 374 d
+:geoo/construction/concrete/016: 416 374 d
+:geoo/construction/concrete/016: 448 358 d
+:geoo/construction/concrete/016: 352 406 d
+:geoo/construction/concrete/016ha: 320 406 d
+:geoo/steel/64x64.S: 480 182
+:geoo/construction/rod_steel/cross_diag_ru.S: 591 381
+:geoo/construction/rod_steel/link_h_dd.S: 576 374
+:geoo/construction/rod_steel/straight32.S: 544 374
+:geoo/construction/rod_steel/straight_diagu8.S: 515 410
+:geoo/construction/rod_steel/straight_diagu32.S: 531 378
+:geoo/construction/rod_steel/straight32.S: 512 374
+:geoo/construction/rod_steel/straight32.S: 514 428
+:geoo/construction/rod_steel/straight_diagu32.S: 562 394
+:geoo/construction/rod_steel/link_h_du.S: 546 426
+:geoo/construction/rod_steel/link_du_h.S: 563 362
+:geoo/construction/rod_steel/end_rect_du.S: 605 394 rr
+:geoo/construction/concrete/016hd: 564 391 d
+:geoo/construction/stairsbrick_ru_32: 576 438
+:geoo/construction/concrete/064h: 208 438
+:geoo/construction/squarebrickx24_dedicated_to_ccx: 336 438
+:geoo/construction/concrete/016hd: 368 406 frrd
+:geoo/construction/concrete/016hd: 416 406 fd
+:geoo/construction/concrete/016hd: 384 390 fd
+:geoo/construction/concrete/016: 400 406 d
+:geoo/construction/concrete/016hd: 384 390 d
+:geoo/construction/concrete/016hd: 448 422 fd
+:geoo/steel/64x64.S: 464 374
+:geoo/construction/concrete/016hd: 400 422 frrd
+:geoo/construction/concrete/016: 432 422 d
+:geoo/construction/stairsbrick_ru_32: 544 454
+:geoo/construction/wall/big_128x128: 608 582
+:geoo/construction/rod_rust/straight_diagu32: 503 511
+:geoo/construction/concrete/128: 512 486
+:geoo/construction/fence_64x64.S: 358 663
+:geoo/construction/rod_steel/straight_diagd32.S: 371 685
+:geoo/construction/fence_64x64.S: 294 663
+:geoo/construction/wall/big_128x64: 288 710
+:geoo/construction/rod_steel/straight32.S: 287 707 rrr
+:geoo/construction/rod_steel/link_h_dd.S: 287 688 rrr
+:geoo/construction/rod_steel/straight_diagu32.S: 294 658
+:geoo/construction/rod_steel/cross_diag_lu.S: 323 645
+:geoo/construction/rod_steel/straight_diagd32.S: 339 653
+:geoo/construction/wall/big_diag_bu: 293 658 d
+:geoo/construction/wall/big_diag_bu: 346 659 frrd
+:geoo/construction/wall/small_64x64: 396 646 d
+:geoo/construction/wall/big_diag_bu: 365 678 frrd
+:geoo/construction/wall/big_diag_bu: 359 658 frrd
+:geoo/construction/wall/big_diag_bu: 365 656 frrd
+:geoo/construction/wall/big_128x128: 160 582
+:geoo/construction/wall/big_brickdiag_bd: 608 710
+:geoo/construction/wall/big_brickdiag_bu: 422 710
+:geoo/construction/rod_steel/straight_diagu32.S: 339 613
+:geoo/construction/rod_steel/link_du_h.S: 371 597
+:geoo/construction/rod_rust/straight32: 391 609
+:geoo/construction/rod_rust/link_h_du: 423 607
+:geoo/construction/rod_rust/straight_diagu32: 439 575
+:geoo/construction/rod_rust/straight_diagu32: 471 543
+:guideline/bomb: 441 552 d
+:geoo/construction/concrete/016ha: 624 614 d
+:geoo/construction/concrete/016: 624 630 d
+:geoo/construction/concrete/016hd: 608 646 d
+:geoo/construction/concrete/016ha: 592 630 d
+:geoo/construction/wall/big_128x128: 160 710
+:geoo/construction/wall/big_128x64: 294 710
