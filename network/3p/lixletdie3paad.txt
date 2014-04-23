@@ -1,4 +1,4 @@
-$BUILT 2014-04-24 01:25:56
+$BUILT 2014-04-23 11:09:31
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Lix and Let Die (3pA&A&D)
@@ -32,7 +32,7 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 
 :amanda/occult/hatch_tentacle.H: 16 832
 :amanda/occult/hatch_tentacle.H: 1808 832 r
-:geoo/construction/Hatch.H: 624 80
+:geoo/construction/Hatch.H: 608 80
 :amanda/occult/hatch_tentacle.H: 16 832 r
 :amanda/occult/hatch_tentacle.H: 1808 832
 :geoo/construction/Hatch.H: 1280 80 r
@@ -46,27 +46,55 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :simon/acid.W: 480 992
 :simon/water.W: 912 992
 :simon/water.W: 864 992
-:simon/acid.W: 128 544
-:simon/acid.W: 176 544
-:simon/acid.W: 224 544
-:simon/acid.W: 272 544
-:simon/acid.W: 320 544
-:simon/acid.W: 368 544
-:simon/acid.W: 416 544
+:simon/acid.W: 128 550
+:simon/acid.W: 176 550
+:simon/acid.W: 224 550
+:simon/acid.W: 272 556
+:simon/acid.W: 320 550
+:simon/acid.W: 368 550
+:simon/acid.W: 416 550
 :geoo/construction/sawblade.F: 720 192
 :simon/acid.W: 1486 992
 :simon/acid.W: 1438 992
 :simon/acid.W: 1390 992
 :simon/water.W: 958 992
 :simon/water.W: 1006 992
-:simon/acid.W: 1742 544
-:simon/acid.W: 1694 544
-:simon/acid.W: 1646 544
-:simon/acid.W: 1598 544
-:simon/acid.W: 1550 544
-:simon/acid.W: 1502 544
-:simon/acid.W: 1454 544
+:simon/acid.W: 1742 554
+:simon/acid.W: 1694 554
+:simon/acid.W: 1646 554
+:simon/acid.W: 1598 554
+:simon/acid.W: 1550 554
+:simon/acid.W: 1502 554
+:simon/acid.W: 1454 554
 :geoo/construction/sawblade.F: 1160 192
+:simon/acid.W: 132 542
+:simon/acid.W: 180 542
+:simon/acid.W: 228 542
+:simon/acid.W: 276 542
+:simon/acid.W: 324 542
+:simon/acid.W: 372 542
+:simon/acid.W: 420 542
+:simon/acid.W: 1746 542
+:simon/acid.W: 1698 542
+:simon/acid.W: 1650 542
+:simon/acid.W: 1602 542
+:simon/acid.W: 1554 542
+:simon/acid.W: 1506 542
+:simon/acid.W: 1458 542
+:simon/acid.W: 1790 554
+:simon/acid.W: 1794 542
+:simon/acid.W: 1838 554
+:simon/acid.W: 1842 542
+:simon/acid.W: 1886 554
+:simon/acid.W: 1890 542
+:simon/acid.W: 1410 542
+:simon/acid.W: 468 542
+:simon/acid.W: 80 550
+:simon/acid.W: 84 542
+:simon/acid.W: 32 550
+:simon/acid.W: 36 542
+:simon/acid.W: -8 550
+:simon/acid.W: -4 542
 
 :geoo/construction/spring_fast.T: 768 656
 :geoo/construction/spring_fast.T: 1120 656
@@ -193,7 +221,7 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :amanda/occult/occult_wax32x48: 48 496
 :amanda/occult/occult_wax64x64: 9 448
 :amanda/occult/occult_wax64x64: -8 352
-:amanda/steel/steel24x8.S: 392 610
+:amanda/steel/steel24x8.S: 392 608
 :amanda/steel/steel24x8.S: 440 610
 :amanda/occult/occult_wax32x16: 448 592 frr
 :amanda/occult/occult_wax32x16_cap_right_alt: 112 592
@@ -327,7 +355,7 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :amanda/occult/occult_wax_details_drip_b: 117 30
 :amanda/occult/occult_wax_details_drip_b: 64 32
 :amanda/occult/occult_wax_details_drip_b: 14 114
-:geoo/construction/concrete/032d: 736 160
+:geoo/construction/concrete/032d: 736 176
 :amanda/occult/occult_wax64x64: 1824 976
 :amanda/occult/occult_wax32x48: 1888 1024 frr
 :amanda/occult/occult_wax32x48: 1888 976 frr
@@ -424,7 +452,7 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :amanda/occult/occult_wax32x48: 1840 496 frr
 :amanda/occult/occult_wax64x64: 1847 448
 :amanda/occult/occult_wax64x64: 1864 352
-:amanda/steel/steel24x8.S: 1504 610
+:amanda/steel/steel24x8.S: 1504 608
 :amanda/steel/steel24x8.S: 1456 610
 :amanda/occult/occult_wax32x16: 1440 592
 :amanda/occult/occult_wax32x48_cap_right_soft: 1440 544
@@ -473,7 +501,6 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :geoo/construction/concrete/032h: 1216 0
 :geoo/construction/concrete/032: 1376 0
 :geoo/construction/concrete/064h: 1344 288
-:geoo/construction/concrete/032vd: 1424 352 frr
 :geoo/construction/concrete/016v: 1456 368
 :geoo/construction/concrete/016: 1456 400
 :geoo/construction/concrete/016: 1456 352
@@ -537,7 +564,7 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :amanda/occult/occult_wax_details_drip_b: 1875 114
 :geoo/construction/concrete/064: 928 704
 :geoo/construction/concrete/064h: 896 -40
-:geoo/construction/concrete/032c: 1152 160
+:geoo/construction/concrete/032c: 1152 176
 :geoo/construction/concrete/016hb: 1184 272
 :geoo/construction/concrete/016hd: 1184 352
 :geoo/construction/concrete/032b: 1216 288
@@ -592,3 +619,26 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :amanda/occult/occult_wax32x48_cap_left_sheer: 1824 400
 :amanda/occult/occult_wax32x48_cap_left_sheer: 1832 352
 :amanda/occult/occult_wax32x48_cap_left_soft: 1776 544
+:geoo/construction/concrete/016hb: 736 160
+:geoo/construction/concrete/016ha: 1152 160
+:geoo/construction/pillar_top_shaded: 416 224
+:geoo/construction/pillar_bottom: 416 272
+:geoo/construction/pillar_32: 416 240
+:geoo/construction/pillar_top_shaded: 1472 224
+:geoo/construction/pillar_bottom: 1472 272
+:geoo/construction/pillar_32: 1472 240
+:amanda/steel/steel32x32.S: 416 624
+:amanda/steel/steel32x32.S: 400 656
+:amanda/steel/steel32x32.S: 416 688
+:amanda/steel/steel32x32.S: 384 624
+:amanda/steel/steel24x8.S: 392 616
+:amanda/steel/steel32x32.S: 1472 624
+:amanda/steel/steel32x32.S: 1504 624
+:amanda/steel/steel24x8.S: 1504 616
+:amanda/steel/steel32x32.S: 1488 656
+:amanda/steel/steel32x32.S: 1472 688
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 416 688
+:amanda/occult/occult_wax_details_drip_b: 416 720
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 1472 688
+:amanda/occult/occult_wax_details_drip_b: 1472 720
+:geoo/construction/concrete/032vc: 1424 352
