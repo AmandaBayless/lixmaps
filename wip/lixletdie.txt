@@ -1,0 +1,150 @@
+$BUILT 2014-04-22 23:05:37
+$AUTHOR Amanda
+$GERMAN Leben und Sterben Lassen
+$ENGLISH Lix and Let Die
+
+#SIZE_X 640
+#SIZE_Y 720
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 30
+#INITIAL 6
+#REQUIRED 1
+#SPAWN_INTERVAL 92
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:amanda/occult/hatch_tentacle.H: 88 96
+:amanda/occult/hatch_tentacle.H: 88 96
+
+:amanda/occult/occult_wax64x64: 16 192
+:amanda/occult/occult_wax32x48_cap_right_sheer: 16 144
+:amanda/occult/occult_wax32x48: -16 192
+:amanda/occult/occult_wax32x48_cap_left_soft: -16 144
+:amanda/occult/occult_wax32x16: 80 240
+:amanda/occult/occult_wax32x48_cap_right_soft: 80 192
+:amanda/occult/occult_wax_details_drip: 0 240
+:amanda/occult/occult_wax32x48_cap_left_sheer: 96 240
+:amanda/occult/occult_wax32x48: 128 240
+:amanda/occult/occult_wax32x16: 160 272
+:amanda/occult/occult_wax32x16_b: 160 256
+:amanda/occult/occult_wax32x16: 160 240
+:amanda/occult/occult_wax32x16_cap_left_alt: 160 224
+:amanda/occult/occult_wax64x64: 192 224
+:amanda/occult/occult_wax32x16_cap_right: 256 272
+:amanda/occult/occult_wax64x48: 256 224
+:amanda/occult/occult_wax_details_sunken_cube: 5 126
+:amanda/occult/occult_cube: 20 114
+:amanda/occult/occult_skulls32x32: 421 -26
+:geoo/construction/fence_rust_32x32: 464 16
+:amanda/occult/occult_skulls32x32: 412 5
+:amanda/steel/steel32x32.S: 320 208
+:amanda/steel/steel32x32.S: 320 240
+:amanda/steel/steel32x32.S: 320 272
+:amanda/steel/steel32x32.S: 320 176
+:amanda/steel/steel32x32.S: 336 144
+:amanda/occult/occult_wax_details_lump: 405 85 rrr
+:amanda/occult/occult_wax_details_lump: 411 84 r
+:amanda/steel/steel32x32.S: 384 96
+:amanda/steel/steel32x32.S: 432 48
+:amanda/steel/steel32x32.S: 448 16
+:amanda/steel/steel24x16.S: 464 0
+:amanda/steel/steel16x16.S: 496 0
+:amanda/steel/steel8x16.S: 488 0
+:amanda/occult/overlays/occult_steel_overlay32x32_c.S: 320 224
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 384 96
+:amanda/occult/occult_wax_details_drip: 384 128
+:amanda/occult/occult_wax_details_drip_b: 348 176
+:amanda/occult/occult_wax_details_bump: 336 138
+:amanda/occult/occult_wax_details_lump: 366 146 r
+:amanda/occult/occult_wax_details_sunken_lix_b: 385 76
+:amanda/occult/occult_wax_details_bump: 412 94 r
+:amanda/occult/occult_wax_details_bump: 413 90 r
+:amanda/occult/occult_skulls32x32: 389 -19
+:amanda/occult/occult_skulls32x32: 356 -26
+:amanda/occult/occult_skulls32x32: 328 -15
+:amanda/occult/occult_skulls32x32: 296 -23
+:amanda/occult/occult_skulls32x32: 261 -20
+:amanda/occult/occult_skulls32x32: 224 -7
+:amanda/occult/occult_skulls32x32: 199 15
+:amanda/occult/occult_skulls32x32: 181 -5 frr
+:amanda/occult/occult_skulls32x32: 200 -28
+:amanda/occult/occult_skulls32x32: 232 -31
+:amanda/occult/occult_skulls32x32: 104 -23
+:amanda/occult/occult_skulls32x32: 155 7
+:amanda/occult/occult_skulls32x32: 128 -6
+:amanda/occult/occult_skulls32x32: 159 -19
+:amanda/occult/occult_skulls32x32: 132 -26
+:amanda/steel/steel32x32.S: 624 0
+:amanda/steel/steel32x32.S: 592 -16
+:amanda/steel/steel32x32.S: 544 -16
+:amanda/steel/steel32x32.S: 512 -16
+:amanda/steel/steel16x16.S: 576 0
+:amanda/steel/steel32x32.S: 624 32
+:amanda/steel/steel32x32.S: 624 64
+:amanda/steel/steel32x32.S: 624 96
+:geoo/construction/fence_rust_32x32: 464 144
+:amanda/steel/steel32x32.S: 432 144
+:geoo/construction/fence_rust_32x32: 464 112
+:geoo/construction/fence_rust_32x32: 464 80
+:geoo/construction/fence_rust_32x32: 464 48
+:geoo/construction/fence_rust_64x64: 496 80
+:geoo/construction/fence_rust_32x32: 496 48
+:geoo/construction/wall/small_64x32: 496 144
+:amanda/steel/steel32x32.S: 624 128
+:amanda/steel/steel32x32.S: 528 48
+:amanda/steel/steel24x16.S: 560 64
+:amanda/steel/steel_flange_left24x16.S: 560 48
+:amanda/steel/steel32x32.S: 624 224
+:amanda/steel/steel_flange_right24x16.S: 600 224
+:amanda/steel/steel_flange_right24x16.S: 584 240
+:amanda/steel/steel16x16.S: 608 240
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 624 -8
+:geoo/construction/wall/small_64x32: 432 224
+:geoo/construction/wall/small_64x32: 464 224
+:geoo/construction/wall/big_diag_td: 528 224
+:geoo/construction/wall/big_diag_tu: 400 224
+:geoo/construction/pillar_top_shaded: 416 256
+:geoo/construction/pillar_32: 416 272
+:geoo/construction/pillar_32: 416 304
+:geoo/construction/pillar_top_shaded: 512 256
+:geoo/construction/pillar_32: 512 272
+:geoo/construction/pillar_base: 400 336
+:geoo/construction/pillar_base: 496 304
+:amanda/steel/steel32x32.S: 584 256
+:amanda/steel/steel16x16.S: 616 256
+:amanda/steel/steel16x16.S: 616 272
+:amanda/steel/steel32x32.S: 584 288
+:amanda/steel/steel16x16.S: 616 288
+:amanda/steel/steel16x16.S: 616 304
+:amanda/steel/steel16x16.S: 632 256
+:amanda/steel/steel16x16.S: 632 272
+:amanda/steel/steel16x16.S: 632 288
+:amanda/steel/steel16x16.S: 632 304
+:geoo/construction/pillar_base: 496 384
+:geoo/construction/pillar_base: 400 416
+:geoo/construction/pillar_top_shaded: 512 400
+:geoo/construction/pillar_top_shaded: 416 432
+:geoo/construction/pillar_32: 512 416
+:geoo/construction/wall/small_64x64: 480 448
+:geoo/construction/wall/small_64x64: 416 448
+:amanda/steel/steel32x32.S: 304 304
+:amanda/steel/steel32x32.S: 288 336
+:amanda/steel/steel32x32.S: 272 368
+:amanda/steel/steel32x32.S: 272 400

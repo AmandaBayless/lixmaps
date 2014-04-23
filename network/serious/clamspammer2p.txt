@@ -1,0 +1,357 @@
+$BUILT 2014-04-19 14:17:06
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Another Tribute To Clam Spammer (2p)
+
+#SIZE_X 960
+#SIZE_Y 560
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 128
+#BACKGROUND_GREEN 64
+#BACKGROUND_BLUE 128
+
+#SECONDS 40
+#INITIAL 120
+#REQUIRED 20
+#SPAWN_INTERVAL 12
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 100
+#EXPLODER2 -1
+#FLOATER 10
+#JUMPER 99
+#BLOCKER 70
+#BATTER -1
+#BUILDER 50
+#PLATFORMER 200
+#MINER 100
+#BASHER 10
+#DIGGER 20
+#CUBER 40
+
+:amanda/occult/hatch_tentacle.H: 136 42 r
+:amanda/occult/hatch_tentacle.H: 720 48
+
+:amanda/occult/occult_goal_skull.G: 828 302
+:amanda/occult/occult_goal_skull.G: 4 302
+
+:amanda/occult/occult_wax32x48_cap_left_soft: 144 224
+:amanda/occult/occult_wax64x64: 160 176
+:amanda/occult/occult_wax64x64: 192 160
+:amanda/occult/occult_wax64x64: 224 128
+:amanda/occult/occult_wax64x48: 288 112
+:amanda/occult/occult_wax64x48: 352 112
+:amanda/occult/occult_wax64x64: 416 160
+:amanda/occult/occult_wax64x64: 480 160 frr
+:amanda/occult/occult_wax64x48: 432 144 frr
+:amanda/occult/occult_wax64x48: 400 112
+:amanda/occult/occult_wax64x64: 288 128
+:amanda/occult/occult_wax64x64: 368 160
+:amanda/occult/occult_wax64x64: 336 160
+:amanda/occult/occult_wax64x64: 320 160
+:amanda/occult/occult_wax64x64: 272 176
+:amanda/occult/occult_wax64x64: 384 208
+:amanda/occult/occult_wax32x48: 240 192
+:amanda/occult/occult_wax32x48: 256 240
+:amanda/occult/occult_wax32x48: 224 224
+:amanda/occult/occult_wax32x48: 256 208
+:amanda/occult/occult_wax32x48: 320 224
+:amanda/occult/occult_wax32x48: 368 224
+:amanda/occult/occult_wax32x48: 384 240
+:amanda/occult/occult_wax32x48: 352 224
+:amanda/occult/occult_wax32x48: 256 224
+:amanda/occult/occult_wax32x48: 288 224
+:amanda/occult/occult_wax32x48: 336 240
+:amanda/occult/occult_wax32x48: 288 240
+:amanda/occult/occult_wax32x48: 256 256
+:amanda/occult/occult_wax32x48: 160 224
+:amanda/occult/occult_wax32x48: 192 240
+:amanda/occult/occult_wax32x48: 224 240
+:amanda/occult/occult_wax32x16_cap_right: 112 272
+:amanda/occult/occult_wax32x16_cap_right: 192 336
+:amanda/occult/occult_wax32x16_cap_right: 208 352
+:amanda/occult/occult_wax32x16_cap_right: 240 368
+:amanda/occult/occult_wax32x16_cap_right: 256 384
+:amanda/occult/occult_wax32x16_cap_right: 272 400
+:amanda/occult/occult_wax32x16_cap_right: 160 288
+:amanda/occult/occult_wax32x16_cap_right: 176 320
+:amanda/occult/occult_wax32x16_cap_right: 192 304
+:amanda/occult/occult_wax32x16_cap_right: 112 272
+:amanda/occult/occult_wax32x16_cap_right: 144 320
+:amanda/occult/occult_wax32x16_cap_right: 192 368
+:amanda/occult/occult_wax32x16_cap_right: 272 368
+:amanda/occult/occult_wax32x16_cap_right: 144 288
+:amanda/occult/occult_wax32x16_cap_right: 224 352
+:amanda/occult/occult_wax32x16_cap_right: 256 368
+:amanda/occult/occult_wax32x16_cap_right: 112 288
+:amanda/occult/occult_wax32x16_cap_right: 144 320
+:amanda/occult/occult_wax32x16_cap_right: 224 368
+:amanda/occult/occult_wax32x16_cap_right: 144 304
+:amanda/occult/occult_wax32x16_cap_right: 128 304
+:amanda/occult/occult_wax32x16_cap_left_alt: 112 288
+:amanda/occult/occult_wax32x16_cap_left_alt: 160 320
+:amanda/occult/occult_wax32x16_cap_left_alt: 192 336
+:amanda/occult/occult_wax32x16_cap_left_alt: 192 352
+:amanda/occult/occult_wax32x16_cap_left_alt: 144 320
+:amanda/occult/occult_wax32x16_cap_left_alt: 128 256
+:amanda/occult/occult_wax32x16_cap_left_alt: 272 368
+:amanda/occult/occult_wax32x16_cap_left_alt: 336 384
+:amanda/occult/occult_wax32x16_cap_left_alt: 304 384
+:amanda/occult/occult_wax32x16_cap_left_alt: 288 400
+:amanda/occult/occult_wax32x16_cap_left_alt: 288 368
+:amanda/occult/occult_wax32x16_cap_left_alt: 352 384
+:amanda/occult/occult_wax32x16_cap_left_alt: 576 384 frr
+:amanda/occult/occult_wax32x48: 576 368 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 592 384 frr
+:matt/beach/daytime/06: 596 424 frr
+:amanda/occult/occult_wax32x48: 656 352 frr
+:amanda/occult/occult_wax32x16_cap_right: 672 384 frr
+:amanda/occult/occult_wax32x16_cap_right: 656 400 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 624 384 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 640 400 frr
+:amanda/occult/occult_wax32x16_cap_right: 736 368 frr
+:amanda/occult/occult_wax32x48: 608 352 frr
+:matt/beach/daytime/06: 594 388 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 544 384 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 528 384 frr
+:amanda/occult/occult_wax32x48: 544 368 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 480 384 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 496 384
+:matt/beach/daytime/06: 394 400 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 384 384
+:amanda/occult/occult_wax32x16_cap_left_alt: 400 384
+:amanda/occult/occult_wax32x16_cap_left_alt: 448 384
+:amanda/occult/occult_wax32x48: 224 320
+:amanda/occult/occult_wax32x48: 272 352
+:amanda/occult/occult_wax32x48: 256 336
+:amanda/occult/occult_wax32x48: 320 352
+:amanda/occult/occult_wax32x48: 352 368
+:amanda/occult/occult_wax32x48: 384 368
+:amanda/occult/occult_wax32x48: 432 240
+:amanda/occult/occult_wax32x48: 448 208
+:amanda/occult/occult_scrawl_pentagram: 352 96
+:amanda/occult/occult_scrawl_pentagram: 343 76
+:amanda/occult/occult_scrawl_pentagram: 346 76
+:amanda/occult/occult_scrawl_pentagram: 354 83
+:amanda/occult/occult_scrawl_pentagram: 348 84
+:amanda/occult/occult_scrawl_pentagram: 373 70
+:amanda/occult/occult_scrawl_pentagram: 365 55
+:amanda/occult/occult_scrawl_pentagram: 359 54
+:amanda/occult/occult_scrawl_pentagram: 341 69
+:amanda/occult/occult_scrawl_pentagram: 338 106
+:amanda/occult/occult_scrawl_pentagram: 387 106
+:amanda/occult/occult_scrawl_pentagram: 392 70
+:amanda/occult/occult_scrawl_pentagram: 357 78
+:amanda/occult/occult_scrawl_pentagram: 340 70
+:amanda/occult/occult_scrawl_pentagram: 346 44
+:amanda/occult/occult_scrawl_pentagram: 386 64
+:amanda/occult/occult_scrawl_pentagram: 387 97
+:amanda/occult/occult_scrawl_pentagram: 358 92
+:amanda/occult/occult_scrawl_pentagram: 338 76
+:amanda/occult/occult_scrawl_pentagram: 332 61
+:amanda/occult/occult_scrawl_pentagram: 347 67
+:amanda/occult/occult_scrawl_pentagram: 378 76
+:amanda/occult/occult_scrawl_pentagram: 387 111
+:amanda/occult/occult_scrawl_pentagram: 338 95
+:amanda/occult/occult_scrawl_pentagram: 332 82
+:amanda/occult/occult_scrawl_pentagram: 340 90
+:proxima/tile/spheres/pink: 347 74
+:amanda/occult/occult_wax32x16_cap_left_alt: 432 388 frr
+:matt/beach/daytime/06: -9 374
+:matt/beach/daytime/06: 349 444
+:matt/beach/daytime/06: 151 388
+:matt/beach/daytime/06: 751 455
+:matt/beach/daytime/01: 120 448
+:matt/beach/daytime/13: -47 445
+:matt/beach/daytime/13: 38 443
+:matt/beach/daytime/13: 136 444
+:matt/beach/daytime/13: 57 404
+:matt/beach/daytime/13: -17 416
+:matt/beach/daytime/13: 117 466
+:matt/beach/daytime/13: 213 478
+:matt/beach/daytime/13: 275 490
+:matt/beach/daytime/13: 187 459
+:matt/beach/daytime/13: 66 446
+:matt/beach/daytime/13: 281 461
+:matt/beach/daytime/06: 352 400
+:matt/beach/daytime/13: 371 470
+:matt/beach/daytime/06: 254 390
+:matt/beach/daytime/13: 452 487
+:matt/beach/daytime/13: 558 499
+:matt/beach/daytime/13: 632 505
+:matt/beach/daytime/13: 558 481
+:matt/beach/daytime/13: 500 461
+:matt/beach/daytime/13: 410 458
+:matt/beach/daytime/13: 310 443
+:matt/beach/daytime/13: 568 485
+:matt/beach/daytime/06: 492 390 frr
+:matt/beach/daytime/13: 878 481
+:matt/beach/daytime/13: 844 504
+:matt/beach/daytime/13: 791 510
+:matt/beach/daytime/13: 666 486
+:matt/beach/daytime/13: 623 457
+:matt/beach/daytime/13: 575 459
+:matt/beach/daytime/13: 553 462
+:matt/beach/daytime/13: 731 454
+:amanda/steel/steel32x32.S: 52 377
+:amanda/occult/occult_wax32x48_cap_left_soft: 784 224 frr
+:amanda/occult/occult_wax64x64: 736 176 frr
+:amanda/occult/occult_wax64x64: 704 160 frr
+:amanda/occult/occult_wax32x48: 464 112 frr
+:amanda/occult/occult_wax32x48: 688 192 frr
+:amanda/occult/occult_wax32x48: 672 240 frr
+:amanda/occult/occult_wax32x48: 704 224 frr
+:amanda/occult/occult_wax32x48: 672 208 frr
+:amanda/occult/occult_wax32x48: 672 224 frr
+:amanda/occult/occult_wax32x48: 672 256 frr
+:amanda/occult/occult_wax32x48: 768 224 frr
+:amanda/occult/occult_wax32x48: 736 240 frr
+:amanda/occult/occult_wax32x48: 704 240 frr
+:amanda/occult/occult_wax32x16_cap_right: 816 272 frr
+:amanda/occult/occult_wax32x16_cap_right: 736 336 frr
+:amanda/occult/occult_wax32x16_cap_right: 720 352 frr
+:amanda/occult/occult_wax32x16_cap_right: 688 368 frr
+:amanda/occult/occult_wax32x16_cap_right: 768 288 frr
+:amanda/occult/occult_wax32x16_cap_right: 752 320 frr
+:amanda/occult/occult_wax32x16_cap_right: 736 304 frr
+:amanda/occult/occult_wax32x16_cap_right: 816 272 frr
+:amanda/occult/occult_wax32x16_cap_right: 784 320 frr
+:amanda/occult/occult_wax32x16_cap_right: 656 368 frr
+:amanda/occult/occult_wax32x16_cap_right: 784 288 frr
+:amanda/occult/occult_wax32x16_cap_right: 704 352 frr
+:amanda/occult/occult_wax32x16_cap_right: 672 368 frr
+:amanda/occult/occult_wax32x16_cap_right: 816 288 frr
+:amanda/occult/occult_wax32x16_cap_right: 784 320 frr
+:amanda/occult/occult_wax32x16_cap_right: 704 368 frr
+:amanda/occult/occult_wax32x16_cap_right: 784 304 frr
+:amanda/occult/occult_wax32x16_cap_right: 800 304 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 816 288 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 768 320 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 736 336 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 736 352 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 784 320 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 800 256 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 656 368 frr
+:amanda/occult/occult_wax32x16_cap_left_alt: 640 368 frr
+:amanda/occult/occult_wax32x48: 704 320 frr
+:amanda/occult/occult_wax32x48: 672 336 frr
+:amanda/occult/occult_wax32x48: 480 208 frr
+:matt/beach/daytime/13: 800 400 frr
+:matt/beach/daytime/13: 864 416 frr
+:matt/beach/daytime/06: 754 374 frr
+:amanda/steel/steel32x32.S: 876 378 frr
+:matt/beach/daytime/13: 910 412 frr
+:matt/beach/nighttime/15: 300 430
+:matt/beach/nighttime/15: 272 432
+:matt/beach/nighttime/15: 270 440
+:matt/beach/nighttime/15: 272 448
+:matt/beach/nighttime/15: 302 498
+:matt/beach/nighttime/15: 308 488
+:matt/beach/nighttime/15: 334 472
+:matt/beach/nighttime/15: 346 504
+:matt/beach/nighttime/15: 324 538
+:matt/beach/nighttime/15: 280 552
+:matt/beach/nighttime/15: 228 512
+:matt/beach/nighttime/15: 246 530
+:matt/beach/nighttime/15: 270 546
+:matt/beach/nighttime/15: 324 538
+:matt/beach/nighttime/15: 346 518
+:matt/beach/nighttime/15: 348 504
+:matt/beach/nighttime/15: 272 486
+:matt/beach/nighttime/15: 268 472
+:matt/beach/nighttime/15: 400 430
+:matt/beach/nighttime/15: 398 448
+:matt/beach/nighttime/15: 400 470
+:matt/beach/nighttime/15: 406 492
+:matt/beach/nighttime/15: 406 518
+:matt/beach/nighttime/15: 414 532
+:matt/beach/nighttime/15: 416 438
+:matt/beach/nighttime/15: 442 432
+:matt/beach/nighttime/15: 464 444
+:matt/beach/nighttime/15: 474 472
+:matt/beach/nighttime/15: 460 488
+:matt/beach/nighttime/15: 454 498
+:matt/beach/nighttime/15: 426 504
+:matt/beach/nighttime/15: 494 530
+:matt/beach/nighttime/15: 514 506
+:matt/beach/nighttime/15: 534 482
+:matt/beach/nighttime/15: 548 466
+:matt/beach/nighttime/15: 560 442
+:matt/beach/nighttime/15: 576 452
+:matt/beach/nighttime/15: 584 482
+:matt/beach/nighttime/15: 598 508
+:matt/beach/nighttime/15: 610 538
+:matt/beach/nighttime/15: 530 506
+:matt/beach/nighttime/15: 558 514
+:matt/beach/nighttime/15: 580 518
+:matt/beach/nighttime/15: 652 546
+:matt/beach/nighttime/15: 674 518
+:matt/beach/nighttime/15: 686 506
+:matt/beach/nighttime/15: 702 484
+:matt/beach/nighttime/15: 710 466
+:matt/beach/nighttime/15: 720 450
+:matt/beach/nighttime/15: 732 474
+:matt/beach/nighttime/15: 742 492
+:matt/beach/nighttime/15: 754 480
+:matt/beach/nighttime/15: 766 472
+:matt/beach/nighttime/15: 780 456
+:matt/beach/nighttime/15: 788 452
+:matt/beach/nighttime/15: 804 490
+:matt/beach/nighttime/15: 814 508
+:matt/beach/nighttime/15: 828 526
+:matt/beach/nighttime/15: 838 540
+:matt/beach/nighttime/15: 790 478
+:amanda/occult/occult_wax64x64: 672 128 frr
+:amanda/occult/occult_wax64x48: 608 112 frr
+:amanda/occult/occult_wax64x48: 544 112 frr
+:amanda/occult/occult_wax64x48: 464 144
+:amanda/occult/occult_wax64x48: 496 112 frr
+:amanda/occult/occult_wax64x64: 608 128 frr
+:amanda/occult/occult_wax64x64: 528 160 frr
+:amanda/occult/occult_wax64x64: 560 160 frr
+:amanda/occult/occult_wax64x64: 576 160 frr
+:amanda/occult/occult_wax64x64: 624 176 frr
+:amanda/occult/occult_wax64x64: 512 208 frr
+:amanda/occult/occult_wax32x48: 672 240 frr
+:amanda/occult/occult_wax32x48: 672 208 frr
+:amanda/occult/occult_wax32x48: 608 224 frr
+:amanda/occult/occult_wax32x48: 560 224 frr
+:amanda/occult/occult_wax32x48: 544 240 frr
+:amanda/occult/occult_wax32x48: 576 224 frr
+:amanda/occult/occult_wax32x48: 672 224 frr
+:amanda/occult/occult_wax32x48: 640 224 frr
+:amanda/occult/occult_wax32x48: 592 240 frr
+:amanda/occult/occult_wax32x48: 640 240 frr
+:amanda/occult/occult_wax32x48: 672 256 frr
+:amanda/occult/occult_wax32x48: 496 240 frr
+:amanda/occult/occult_wax32x48: 480 208 frr
+:amanda/occult/occult_scrawl_pentagram: 558 96 frr
+:amanda/occult/occult_scrawl_pentagram: 567 76 frr
+:amanda/occult/occult_scrawl_pentagram: 564 76 frr
+:amanda/occult/occult_scrawl_pentagram: 556 83 frr
+:amanda/occult/occult_scrawl_pentagram: 562 84 frr
+:amanda/occult/occult_scrawl_pentagram: 537 70 frr
+:amanda/occult/occult_scrawl_pentagram: 545 55 frr
+:amanda/occult/occult_scrawl_pentagram: 551 54 frr
+:amanda/occult/occult_scrawl_pentagram: 569 69 frr
+:amanda/occult/occult_scrawl_pentagram: 572 106 frr
+:amanda/occult/occult_scrawl_pentagram: 523 106 frr
+:amanda/occult/occult_scrawl_pentagram: 518 70 frr
+:amanda/occult/occult_scrawl_pentagram: 553 78 frr
+:amanda/occult/occult_scrawl_pentagram: 570 70 frr
+:amanda/occult/occult_scrawl_pentagram: 564 44 frr
+:amanda/occult/occult_scrawl_pentagram: 524 64 frr
+:amanda/occult/occult_scrawl_pentagram: 523 97 frr
+:amanda/occult/occult_scrawl_pentagram: 552 92 frr
+:amanda/occult/occult_scrawl_pentagram: 572 76 frr
+:amanda/occult/occult_scrawl_pentagram: 578 61 frr
+:amanda/occult/occult_scrawl_pentagram: 563 67 frr
+:amanda/occult/occult_scrawl_pentagram: 532 76 frr
+:amanda/occult/occult_scrawl_pentagram: 523 111 frr
+:amanda/occult/occult_scrawl_pentagram: 572 95 frr
+:amanda/occult/occult_scrawl_pentagram: 578 82 frr
+:amanda/occult/occult_scrawl_pentagram: 570 90 frr
+:proxima/tile/spheres/pink: 549 74
+:amanda/occult/occult_wax32x48: 464 112
+:amanda/occult/occult_wax32x48: 448 208

@@ -1,0 +1,123 @@
+$BUILT 2014-04-18 16:52:48
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Gosh no why (2p)
+
+#SIZE_X 640
+#SIZE_Y 1200
+#TORUS_X 0
+#TORUS_Y 1
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 70
+#INITIAL 130
+#REQUIRED 20
+#SPAWN_INTERVAL 12
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER -1
+#BUILDER 100
+#PLATFORMER -1
+#EXPLODER2 997
+#FLOATER 40
+#MINER 100
+#BATTER 100
+#CUBER 30
+#BLOCKER 40
+#DIGGER 999
+#JUMPER 799
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 160 96
+:geoo/abstract/hatch.H: 496 112
+:amanda/occult/hatch_tentacle.H: 145 986
+:amanda/occult/hatch_tentacle.H: 432 992
+
+:amanda/occult/occult_goal_skull.G: -38 1114
+:amanda/occult/occult_goal_skull.G: 554 1114
+:amanda/occult/occult_goal_skull.G: 456 784
+:amanda/occult/occult_goal_skull.G: 100 786
+
+:matt/underworld/Lava.W: 0 48
+:matt/underworld/Lava.W: 48 48
+:matt/underworld/Lava.W: 96 48
+:matt/underworld/Lava.W: 144 48
+:matt/underworld/Lava.W: 192 48
+:matt/underworld/Lava.W: 240 48
+:matt/underworld/Lava.W: 288 48
+:matt/underworld/Lava.W: 384 48
+:matt/underworld/Lava.W: 432 48
+:matt/underworld/Lava.W: 480 48
+:matt/underworld/Lava.W: 528 48
+:matt/underworld/Lava.W: 576 48
+:matt/underworld/Lava.W: 624 48
+
+:matt/earth/01: 78 227
+:matt/earth/01: 116 215
+:matt/earth/01: 151 212
+:matt/earth/01: 178 215
+:matt/earth/01: 209 223
+:matt/earth/01: 261 248
+:matt/earth/01: 303 267
+:matt/earth/01: 352 276
+:matt/earth/01: 391 274
+:matt/earth/01: 427 261
+:matt/earth/01: 454 254
+:matt/earth/01: 484 222
+:matt/earth/01: 507 194
+:matt/earth/01: 477 233
+:geoo/steel/dark_64x48o.S: 142 180
+:geoo/steel/dark_64x48o.S: 142 133
+:geoo/steel/dark_64x48o.S: 489 190
+:geoo/steel/dark_64x48o.S: 491 142
+:geoo/steel/32x64o.S: 407 170
+:matt/beach/daytime/02: 336 80
+:geoo/steel/32x64o.S: 319 168
+:geoo/steel/32x64o.S: 362 154
+:geoo/steel/dark_64x64o.S: 80 928
+:geoo/steel/dark_64x64o.S: 80 992
+:geoo/steel/dark_64x64o.S: 80 1056
+:geoo/steel/dark_64x64o.S: 80 1120
+:geoo/steel/dark_64x64o.S: 144 1120
+:geoo/steel/dark_64x64o.S: 80 864
+:geoo/steel/dark_64x64o.S: 144 864
+:geoo/steel/dark_64x64o.S: 208 864
+:geoo/steel/dark_64x64o.S: 272 864
+:geoo/steel/dark_64x64o.S: 336 864
+:geoo/steel/dark_64x64o.S: 400 864
+:geoo/steel/dark_64x64o.S: 464 864
+:geoo/steel/dark_64x64o.S: 528 864
+:geoo/steel/dark_64x64o.S: 528 928
+:geoo/steel/dark_64x64o.S: 528 992
+:geoo/steel/dark_64x64o.S: 528 1056
+:geoo/steel/dark_64x64o.S: 528 1120
+:geoo/steel/dark_64x64o.S: 464 1120
+:matt/marble/05: 240 784
+:matt/marble/05: 384 624
+:matt/marble/05: 480 544
+:matt/marble/05: 261 403
+:matt/marble/05: 213 552
+:matt/marble/05: 288 688
+:matt/marble/05: 400 432
+:matt/marble/05: 256 336
+:matt/marble/05: 128 496
+:matt/marble/05: 160 672
+:matt/beach/daytime/05: 385 1147 d
+:geoo/steel/32x32o.S: 416 1192
+:geoo/steel/32x64o.S: 320 928
+:geoo/steel/32x64o.S: 320 992
+:geoo/steel/32x64o.S: 320 1056
+:geoo/steel/32x16o.S: 222 1194
+:geoo/steel/64x64.S: 582 1192
+:geoo/steel/32x32o.S: 10 1192
+:matt/beach/daytime/02: 304 1104
+:matt/beach/daytime/02: 320 1184
+:matt/beach/daytime/02: 336 16
+:matt/marble/05: 423 350
+:matt/marble/05: 450 748
+:matt/beach/daytime/15: 388 75 d
+:guideline/bomb: 333 80 d
+:guideline/bomb: 353 64 d
+:guideline/bomb: 371 73 d
