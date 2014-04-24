@@ -1,7 +1,7 @@
-$BUILT 2014-04-23 11:34:00
+$BUILT 2014-04-23 19:55:23
 $AUTHOR Amanda
 $GERMAN 
-$ENGLISH Lix and Let Die (3pA&A&D)
+$ENGLISH Lix and Let Die (2pA&D)
 
 #SIZE_X 1920
 #SIZE_Y 1040
@@ -31,10 +31,8 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 #DIGGER 30
 
 :amanda/occult/hatch_tentacle.H: 16 832
-:amanda/occult/hatch_tentacle.H: 1808 832 r
 :geoo/construction/Hatch.H: 608 80
-:amanda/occult/hatch_tentacle.H: 16 832 r
-:amanda/occult/hatch_tentacle.H: 1808 832
+:amanda/occult/hatch_tentacle.H: 1808 832 r
 :geoo/construction/Hatch.H: 1280 80 r
 
 :amanda/occult/occult_goal_skull.G: 1832 288
