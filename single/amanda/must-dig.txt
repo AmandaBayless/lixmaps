@@ -3,6 +3,9 @@ $AUTHOR Amanda
 $GERMAN Müssen Graben
 $ENGLISH Must Dig
 
+
+$TUTORIAL_ENGLISH Assign the "dig" skill to a lix to make her dig straight down.
+
 #SIZE_X 912
 #SIZE_Y 400
 #TORUS_X 0
