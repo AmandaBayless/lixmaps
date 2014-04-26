@@ -1,0 +1,83 @@
+$BUILT 2014-04-24 15:55:47
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Bash Script
+
+$TUTORIAL_ENGLISH Now use the basher skill to make a lix carve through a wall. <br> Note that she has to be approaching the wall; if you click to late she'll have turned around.
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 10
+#REQUIRED 5
+#SPAWN_INTERVAL 50
+#SPAWN_INTERVAL_FAST 50
+
+#BASHER -1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:simon/hatch001.H: 70 174
+
+:simon/tapir/goal.G: 562 258
+
+:matt/earth/01: 198 262
+:matt/earth/00: 280 264
+:matt/earth/02: 256 260
+:matt/oriental/bamboo_pole: 460 166
+:matt/earth/17: 440 320
+:matt/earth/18: 32 272
+:matt/earth/05: -16 248
+:matt/earth/07b: 44 266
+:matt/earth/08: 16 244
+:matt/earth/04: 280 152
+:matt/oriental/03: 438 300
+:matt/earth/10: 288 280
+:matt/earth/16: 200 288
+:matt/earth/17: 280 320
+:matt/earth/16: 336 328 fr
+:matt/earth/05: -40 152
+:matt/earth/10: 24 320
+:matt/earth/17: 216 264
+:matt/earth/11: 168 304
+:matt/earth/13: 32 296
+:matt/earth/15: 96 320
+:matt/earth/07b: 216 262
+:matt/earth/07b: 208 262 frr
+:matt/earth/19: 48 264
+:matt/oriental/07: 554 304
+:matt/earth/17: 488 304
+:matt/earth/16: 552 296
+:matt/earth/10: 440 288
+:matt/earth/11: 296 352
+:matt/earth/13: 488 360
+:matt/earth/02: 602 224
+:matt/earth/07b: 228 260
+:matt/earth/09: 236 256
+:matt/earth/28: 160 268
+:matt/earth/29: 76 270
+:matt/earth/27: 86 270
+:matt/earth/06: 322 146
+:matt/earth/07: 278 172 frr
+:matt/earth/07b: 364 158 frr
+:matt/earth/07b: 358 150
+:matt/oriental/bamboo_leaf2: 466 178
+:matt/oriental/bamboo_leaf3: 436 212
+:matt/oriental/bamboo_leaf1: 440 184
+:matt/oriental/bamboo_leaf2: 436 238 frr
+:matt/oriental/bamboo_leaf3: 464 226 frr

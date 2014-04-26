@@ -1,0 +1,102 @@
+$BUILT 2014-04-24 16:21:09
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH A Miner Problem
+
+$TUTORIAL_ENGLISH Welcome to Lix! <br> The objective is to guide your lixes from the hatch where they appear down to the exit. <br> Click on a lix to make her mine.
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 10
+#REQUIRED 5
+#SPAWN_INTERVAL 50
+#SPAWN_INTERVAL_FAST 4
+
+#MINER -1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 249 78
+
+:simon/tapir/goal.G: 348 321
+
+:matt/earth/03: -44 22
+:matt/earth/01: 75 30
+:matt/earth/23: 7 158
+:matt/earth/16: -18 40
+:matt/earth/00: 28 48
+:matt/earth/16: 64 51
+:matt/earth/01: 11 136
+:matt/earth/09: 143 147
+:matt/earth/25: 100 241
+:matt/earth/10: 40 137
+:matt/earth/10: 441 47
+:matt/earth/30: 294 314 rr
+:matt/earth/13: 288 275
+:matt/earth/03: 274 284
+:matt/earth/18: 375 148
+:matt/earth/03: 422 224
+:matt/earth/04: 379 80
+:matt/earth/07b: 222 176
+:matt/earth/19: 231 177
+:matt/earth/16: 481 128 fr
+:matt/earth/11: 463 138
+:matt/earth/14: 509 120
+:matt/earth/04: 519 281
+:matt/earth/05: 579 84
+:matt/earth/17: 475 212 fr
+:matt/earth/16: -63 30
+:matt/earth/06: 384 104
+:matt/earth/06: 417 74
+:matt/earth/07: 581 60
+:matt/earth/09: 490 40
+:matt/earth/06: 455 46
+:matt/earth/08: 540 44
+:matt/earth/07b: 573 56
+:matt/earth/07b: 562 59
+:matt/earth/09: 614 82
+:matt/earth/07: 102 26
+:matt/earth/09: 52 25
+:matt/earth/09: 18 18
+:matt/earth/06: -13 18
+:matt/earth/08: 185 150
+:matt/earth/07b: 211 172
+:matt/earth/18: 4 257
+:matt/earth/04: -16 265 frr
+:matt/earth/10: 99 326
+:matt/earth/11: 81 314
+:matt/earth/05: -49 171
+:matt/earth/03: -7 372
+:matt/earth/13: 137 324
+:matt/earth/11: 293 362
+:matt/earth/15: 347 377
+:matt/earth/11: 422 354
+:matt/earth/20: 333 366
+:matt/earth/04: 211 291
+:matt/earth/17: 474 300
+:matt/earth/01: 504 277
+:matt/earth/10: 561 300
+:matt/earth/26: 477 266
+:matt/earth/12: 540 276
+:matt/earth/28: 349 181
+:matt/earth/29: 260 184
+:matt/earth/08: 367 134 frr
+:matt/earth/07b: 306 322 d
+:matt/earth/07b: 315 320 d
+:matt/earth/07b: 304 317 d
