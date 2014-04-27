@@ -1,4 +1,4 @@
-$BUILT 2014-04-23 11:34:00
+$BUILT 2014-04-26 20:36:36
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Lix and Let Die (3pA&A&D)
@@ -20,21 +20,21 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 #WALKER -1
 #RUNNER 1
 #JUMPER -1
-#BLOCKER 10
+#BLOCKER -1
 #CLIMBER 8
 #FLOATER 5
 #PLATFORMER 60
-#BUILDER 40
+#BUILDER -1
 #BATTER 60
 #BASHER 70
 #MINER 30
 #DIGGER 30
 
-:amanda/occult/hatch_tentacle.H: 16 832
-:amanda/occult/hatch_tentacle.H: 1808 832 r
+:amanda/occult/hatch_tentacle.H: 64 672
+:amanda/occult/hatch_tentacle.H: 1760 672 r
 :geoo/construction/Hatch.H: 608 80
-:amanda/occult/hatch_tentacle.H: 16 832 r
-:amanda/occult/hatch_tentacle.H: 1808 832
+:amanda/occult/hatch_tentacle.H: 64 672 r
+:amanda/occult/hatch_tentacle.H: 1760 672
 :geoo/construction/Hatch.H: 1280 80 r
 
 :amanda/occult/occult_goal_skull.G: 1832 288
@@ -642,3 +642,63 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :amanda/occult/overlays/occult_steel_overlay32x32_d.S: 1472 688
 :amanda/occult/occult_wax_details_drip_b: 1472 720
 :geoo/construction/concrete/032vc: 1424 352
+:amanda/steel/steel32x32.S: 1792 800
+:amanda/steel/steel32x32.S: 1824 800
+:amanda/steel/steel32x32.S: 1760 800
+:amanda/steel/steel_flange_right24x16.S: 1760 784
+:amanda/steel/steel_flange_left24x16.S: 1832 784
+:amanda/steel/steel32x32.S: 1888 784
+:amanda/steel/steel32x32.S: 1888 816
+:amanda/steel/steel32x32.S: 1888 752
+:amanda/steel/steel32x32.S: 1888 720
+:amanda/steel/steel32x32.S: 1888 688
+:amanda/steel/steel32x32.S: 1696 784
+:amanda/steel/steel32x32.S: 1696 816
+:amanda/steel/steel32x32.S: 1696 752
+:amanda/steel/steel32x32.S: 1696 720
+:amanda/steel/steel32x32.S: 1696 688
+:amanda/steel/steel_flange_right24x16.S: 1848 848
+:amanda/steel/steel24x16.S: 1896 848
+:amanda/steel/steel24x16.S: 1872 848
+:amanda/steel/steel_flange_left24x16.S: 1744 848
+:amanda/steel/steel24x16.S: 1696 848
+:amanda/steel/steel24x16.S: 1720 848
+:amanda/steel/steel_flange_right24x16.S: 1864 688
+:amanda/steel/steel_flange_left24x16.S: 1728 688
+:amanda/steel/steel32x32.S: 192 784
+:amanda/steel/steel32x32.S: 192 816
+:amanda/steel/steel32x32.S: 192 752
+:amanda/steel/steel32x32.S: 192 720
+:amanda/steel/steel32x32.S: 192 688
+:amanda/steel/steel_flange_right24x16.S: 152 848
+:amanda/steel/steel24x16.S: 200 848
+:amanda/steel/steel24x16.S: 176 848
+:amanda/steel/steel_flange_right24x16.S: 168 688
+:amanda/steel/steel32x32.S: 96 800
+:amanda/steel/steel32x32.S: 128 800
+:amanda/steel/steel32x32.S: 64 800
+:amanda/steel/steel_flange_right24x16.S: 64 784
+:amanda/steel/steel_flange_left24x16.S: 136 784
+:amanda/steel/steel32x32.S: 0 784
+:amanda/steel/steel32x32.S: 0 816
+:amanda/steel/steel32x32.S: 0 752
+:amanda/steel/steel32x32.S: 0 720
+:amanda/steel/steel32x32.S: 0 688
+:amanda/steel/steel_flange_left24x16.S: 48 848
+:amanda/steel/steel24x16.S: 0 848
+:amanda/steel/steel24x16.S: 24 848
+:amanda/steel/steel_flange_left24x16.S: 32 688
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 1696 816
+:amanda/occult/occult_wax_details_drip: 1696 848
+:amanda/occult/overlays/occult_steel_overlay32x32_d.S: 192 816
+:amanda/occult/occult_wax_details_drip: 192 848
+:amanda/steel/steel_flange_right24x16.S: 1760 920
+:amanda/steel/steel_flange_left24x16.S: 1832 920
+:amanda/steel/steel24x16.S: 1784 920
+:amanda/steel/steel24x16.S: 1808 920
+:amanda/steel/steel24x8.S: 1796 936
+:amanda/steel/steel_flange_right24x16.S: 64 920
+:amanda/steel/steel_flange_left24x16.S: 136 920
+:amanda/steel/steel24x16.S: 88 920
+:amanda/steel/steel24x16.S: 112 920
+:amanda/steel/steel24x8.S: 100 936
