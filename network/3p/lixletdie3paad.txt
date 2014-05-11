@@ -1,4 +1,4 @@
-$BUILT 2014-04-26 20:36:36
+$BUILT 2014-04-24 21:42:11
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Lix and Let Die (3pA&A&D)
@@ -11,7 +11,7 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 #BACKGROUND_GREEN 0
 #BACKGROUND_BLUE 0
 
-#SECONDS 40
+#SECONDS 105
 #INITIAL 8
 #REQUIRED 1
 #SPAWN_INTERVAL 50
@@ -321,8 +321,8 @@ $ENGLISH Lix and Let Die (3pA&A&D)
 :amanda/occult/occult_skulls32x32: 368 32
 :amanda/occult/occult_wax_details_drip_b: 288 80
 :amanda/occult/occult_overlay32x32_d: 304 64
-:amanda/occult/occult_skulls32x32: 256 32
 :amanda/occult/occult_wax_details_drip: 320 64
+:amanda/occult/occult_skulls32x32: 256 32
 :amanda/occult/occult_skulls32x32: 272 48
 :amanda/occult/occult_skulls32x32: 160 0
 :amanda/occult/occult_skulls32x32: 154 -16
