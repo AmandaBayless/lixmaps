@@ -1,0 +1,114 @@
+$BUILT 2014-05-11 01:32:24
+$AUTHOR 
+$GERMAN 
+$ENGLISH 
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 1
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 30
+#REQUIRED 20
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 200
+#EXPLODER2 -1
+#BLOCKER -1
+#BATTER 80
+#RUNNER 10
+#JUMPER 50
+#CUBER 20
+#FLOATER 30
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/earth/Hatch.H: 240 293
+
+:matt/earth/Goal.G: 96 288
+
+:matt/goldmine/crate64: 167 222
+:matt/goldmine/explosivecrate: 189 286
+:matt/goldmine/planksupport: 28 73
+:matt/goldmine/tracks: 45 182 d
+:matt/earth/05: 142 159
+:matt/steel/48x48.S: 197 174
+:matt/earth/03: 343 374
+:matt/earth/18: 262 342
+:matt/earth/10: 154 339
+:matt/earth/01: 9 359
+:matt/earth/17: 57 253
+:matt/earth/02: 103 273
+:matt/earth/04: 40 318 fr
+:matt/earth/10: 620 175 fr
+:matt/earth/13: 610 266
+:matt/earth/26: 547 340
+:matt/earth/30: 538 303
+:matt/earth/22: 574 301
+:matt/earth/14: 587 272
+:matt/earth/11: 613 316
+:matt/earth/15: 585 375
+:matt/earth/17: 444 367
+:matt/earth/30: 506 333
+:matt/earth/22: 501 374
+:matt/earth/22: 520 356
+:matt/earth/22: 538 337
+:matt/earth/22: 556 319
+:matt/earth/11: 573 322
+:matt/earth/06: 615 199
+:matt/earth/09: 21 171
+:matt/earth/06: 634 170
+:matt/earth/08: 55 170
+:matt/earth/04: 71 155
+:matt/earth/10: 608 0
+:matt/earth/17: 32 -32 fr
+:matt/earth/17: 128 -16
+:matt/earth/19: 368 0
+:matt/earth/30: 246 54
+:matt/earth/30: 258 54
+:matt/earth/30: 234 54
+:matt/earth/05: 176 1 fr
+:matt/earth/04: 154 -58 fr
+:matt/earth/18: 272 -16
+:matt/earth/00: 304 -32
+:matt/earth/03: 352 -16
+:matt/earth/17: 480 -16 fr
+:matt/earth/01: 576 16
+:matt/earth/16: 576 -64
+:matt/earth/19: 114 192 frd
+:matt/earth/07b: 145 192
+:matt/earth/29: 143 196
+:matt/steel/16x32.S: 114 346 fr
+:matt/earth/18: 234 85
+:matt/earth/28: 271 63
+:matt/earth/29: 247 82
+:matt/earth/11: 191 32
+:matt/steel/32x64.S: 162 285
+:matt/steel/32x64.S: 162 221
+:matt/steel/64x64.S: 146 349
+:matt/earth/29: 550 359
+:matt/earth/09: 352 375
+:matt/earth/08: 301 352
+:matt/earth/07b: 292 352
+:matt/earth/09: 391 371
+:matt/earth/07b: 341 376
+:matt/earth/07b: 332 374 frr
+:matt/earth/09: 433 370
+:matt/earth/07: 472 363
+:matt/earth/07b: 478 372
+:matt/earth/07b: 463 365 frr
+:matt/earth/09: 242 337
+:matt/earth/08: 283 338
+:matt/earth/28: 112 191
+:matt/earth/30: 613 211 d
+:matt/earth/30: 16 168 d
+:matt/earth/30: 638 228 rd
+:matt/earth/18: 49 265
+:matt/earth/12: 234 51

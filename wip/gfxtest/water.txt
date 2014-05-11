@@ -1,0 +1,42 @@
+$BUILT 2014-05-11 04:04:40
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Watersick
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 30
+#REQUIRED 20
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:amanda/occult/hatch_tentacle.H: 80 48
+
+:amanda/occult/occult_goal_skull.G: 242 120
+
+:amanda/src/water_delicious.W: 176 288
+:amanda/src/water_delicious.W: 48 288
+:amanda/src/water_delicious.W: 304 288
+:amanda/src/water_daaang.W: 48 352
+:amanda/src/water_daaang.W: 176 352
+:amanda/src/water_daaang.W: 304 352
