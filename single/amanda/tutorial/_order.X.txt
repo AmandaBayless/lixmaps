@@ -1,0 +1,3 @@
+minerprob.txt
+bashers.txt
+minebash.txt
