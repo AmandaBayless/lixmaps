@@ -1,4 +1,4 @@
-$BUILT 2014-04-23 19:55:23
+$BUILT 2014-04-24 21:19:53
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Lix and Let Die (2pA&D)
@@ -35,9 +35,10 @@ $ENGLISH Lix and Let Die (2pA&D)
 :amanda/occult/hatch_tentacle.H: 1808 832 r
 :geoo/construction/Hatch.H: 1280 80 r
 
-:amanda/occult/occult_goal_skull.G: 1832 288
 :amanda/occult/occult_goal_skull.G: -40 288
 :geoo/abstract/goal.G: 528 1024
+:amanda/occult/occult_goal_skull.G: 1832 288
+:geoo/abstract/goal.G: 1360 1024
 
 :simon/acid.W: 384 992
 :simon/acid.W: 432 992

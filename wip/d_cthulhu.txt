@@ -1,4 +1,4 @@
-$BUILT 2014-03-26 14:09:09
+$BUILT 2014-04-25 00:05:46
 $AUTHOR Amanda
 $GERMAN Alptraum der Cthulhu
 $ENGLISH Cthulhu's Nightmare
@@ -34,6 +34,8 @@ $ENGLISH Cthulhu's Nightmare
 :amanda/occult/hatch_tentacle.H: 288 0
 
 :amanda/occult/occult_goal_skull.G: 368 288
+
+:amanda/occult/eater.T: 104 193
 
 :amanda/occult/occult_wax32x48_cap_left_soft: 96 288
 :amanda/occult/occult_wax32x48_cap_left_sheer: 96 240
