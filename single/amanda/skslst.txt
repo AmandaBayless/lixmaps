@@ -1,4 +1,4 @@
-$BUILT 2014-04-05 17:52:42
+$BUILT 2014-04-26 15:20:58
 $AUTHOR Amanda
 $GERMAN Schädel, Schlamm und Stahl
 $ENGLISH Skulls, Sludge, and Steel
@@ -35,6 +35,8 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_goal_skull.G: 805 212
 
 :amanda/steel/steel32x32.S: 288 144
+:amanda/occult/occult_skulls32x32: 318 213
+:amanda/occult/occult_skulls32x32: 282 207
 :amanda/occult/occult_wax32x16: 292 268
 :amanda/occult/occult_wax32x16_cap_right: 304 272
 :amanda/steel/steel16x16.S: 320 272
@@ -44,11 +46,8 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax64x48: 256 320
 :amanda/occult/occult_wax16x16: 304 304
 :amanda/occult/occult_wax32x16_b: 304 288
-:amanda/occult/occult_skulls32x32: 300 170
-:amanda/occult/occult_skulls32x32: 327 212
-:amanda/steel/steel32x32.S: 304 208
 :amanda/steel/steel32x32.S: 288 240
-:amanda/occult/occult_skulls32x32: 348 214 rrr
+:amanda/occult/occult_skulls32x32: 349 214 rrr
 :amanda/occult/occult_skulls32x32: 426 275 frr
 :amanda/occult/occult_skulls32x32: 390 256
 :amanda/occult/occult_skulls32x32: 336 240
@@ -82,7 +81,6 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax32x16_b: 112 272
 :amanda/occult/occult_wax_details_sunken_lix: 226 263
 :amanda/steel/steel32x32.S: 288 176
-:amanda/occult/occult_skulls32x32: 320 192
 :amanda/steel/steel32x32.S: 320 240
 :amanda/occult/overlays/occult_steel_overlay32x32_d.S: 320 240
 :amanda/occult/occult_wax32x16_cap_right: 336 288
@@ -240,14 +238,13 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax_details_drip: 154 128
 :amanda/occult/occult_wax_details_drip_b: 224 143
 :amanda/occult/occult_wax32x16: 768 272
-:amanda/occult/occult_wax32x48: 704 224
 :amanda/steel/steel32x32.S: 656 336
 :amanda/steel/steel32x32.S: 672 368
 :amanda/steel/steel32x32.S: 688 336
 :amanda/steel/steel32x32.S: 704 368
 :amanda/occult/occult_skulls32x32: 582 362 rrr
 :amanda/occult/overlays/occult_steel_overlay32x32_c.S: 704 368
-:amanda/occult/occult_wax32x48_cap_right_sheer: 736 224
+:amanda/occult/occult_wax32x48_cap_right_sheer: 704 224
 :amanda/occult/occult_wax64x64: 736 -16
 :amanda/occult/occult_wax32x16_cap_right: 800 32
 :amanda/occult/occult_wax64x48: 800 -16
@@ -273,3 +270,5 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/overlays/occult_steel_overlay32x32_d.S: 432 157
 :amanda/occult/occult_wax_details_drip: 434 187
 :amanda/occult/occult_wax_details_drip: 566 235
+:amanda/steel/steel24x16.S: 304 208 fr
+:amanda/steel/steel8x16.S: 304 232 fr
