@@ -1,4 +1,4 @@
-$BUILT 2014-05-12 11:24:34
+$BUILT 2014-05-13 22:22:27
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Butterflingers (2p)
@@ -92,7 +92,7 @@ $ENGLISH Butterflingers (2p)
 :geoo/abstract/tbeam_right.T: 240 400
 :geoo/abstract/tbeam_right.T: 272 400
 :geoo/abstract/tbeam_right.T: 336 400
-:geoo/abstract/tbeam_right.T: 368 400
+:geoo/abstract/tbeam_right.T: 304 400
 :geoo/abstract/tbeam_right.T: 400 400
 :geoo/abstract/tbeam_right.T: 432 400
 :geoo/abstract/tbeam_right.T: 464 400
@@ -106,7 +106,7 @@ $ENGLISH Butterflingers (2p)
 :geoo/abstract/tbeam_right.T: 80 400
 :geoo/abstract/tbeam_right.T: 112 400
 :geoo/abstract/tbeam_right.T: 144 400
-:geoo/abstract/tbeam_up.T: 304 400
+:geoo/abstract/tbeam_up.T: 368 400
 :geoo/abstract/tbeam_up.T: 96 771
 :geoo/abstract/tbeam_right.T: 98 752
 :geoo/abstract/tbeam_left.T: 416 596
@@ -179,7 +179,7 @@ $ENGLISH Butterflingers (2p)
 :geoo/abstract/tbeam_right.T: 16 0
 :geoo/abstract/tbeam_right.T: 48 0
 :geoo/abstract/tbeam_right.T: 80 0
-:geoo/abstract/tbeam_right.T: 112 0
+:geoo/abstract/tbeam_right.T: 560 0
 :geoo/abstract/tbeam_right.T: 144 0
 :geoo/abstract/tbeam_right.T: 176 0
 :geoo/abstract/tbeam_right.T: 208 0
@@ -189,7 +189,7 @@ $ENGLISH Butterflingers (2p)
 :geoo/abstract/tbeam_right.T: 336 0
 :geoo/abstract/tbeam_right.T: 368 0
 :geoo/abstract/tbeam_right.T: 400 0
-:geoo/abstract/tbeam_up.T: 560 0
+:geoo/abstract/tbeam_up.T: 112 0
 :geoo/abstract/tbeam_up.T: 352 371
 :geoo/abstract/tbeam_right.T: 354 352
 :geoo/abstract/tbeam_left.T: 32 196
@@ -507,3 +507,5 @@ $ENGLISH Butterflingers (2p)
 :geoo/steel/32x16o.S: 160 104
 :geoo/steel/32x16o.S: 128 104
 :geoo/steel/32x16o.S: 96 104
+:geoo/steel/32x16o.S: 128 32
+:geoo/steel/32x16o.S: 384 432
