@@ -1,0 +1,100 @@
+$BUILT 2014-05-13 22:17:28
+$AUTHOR 
+$GERMAN 
+$ENGLISH 
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 30
+#REQUIRED 20
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 208 160
+
+:geoo/abstract/goal.G: 480 320
+
+:matt/underworld/03: 256 150
+:geoo/construction/rod_steel/straight32.S: 288 170
+:geoo/construction/rod_steel/straight32.S: 288 186
+:matt/underworld/03: 256 158
+:matt/underworld/03: 256 162
+:matt/underworld/01: 246 136 d
+:geoo/abstract/pipes/central2: 324 148
+:geoo/construction/rod_steel/edge_ld.S: 320 170
+:geoo/construction/rod_steel/straight8.S: 320 178 rrr
+:geoo/construction/rod_steel/edge_lu.S: 320 186
+:geoo/sandstone/ribbon_start_sq: 192 208
+:geoo/sandstone/ribbon_start_sq: 224 208
+:geoo/sandstone/ribbon_main: 192 240
+:geoo/sandstone/ribbon_main: 224 240
+:geoo/construction/pillar_32: 208 272
+:geoo/sandstone/ribbon_end: 192 272
+:geoo/sandstone/ribbon_end: 224 272
+:geoo/sandstone/ribbon_end: 256 272
+:geoo/sandstone/ribbon_start_sq: 256 208
+:geoo/sandstone/ribbon_start_sq: 288 208
+:geoo/sandstone/ribbon_start_sq: 320 208
+:geoo/sandstone/ribbon_start_sq: 352 208
+:geoo/construction/rod_steel/straight32.S: 384 192 rrr
+:geoo/sandstone/ribbon_start_sq: 384 208
+:geoo/sandstone/ribbon_start_sq: 416 208
+:geoo/sandstone/ribbon_start_sq: 448 208
+:geoo/sandstone/ribbon_end: 288 272
+:geoo/sandstone/ribbon_end: 320 272
+:geoo/sandstone/ribbon_end: 352 272
+:geoo/sandstone/ribbon_end: 384 272
+:geoo/construction/pillar_32: 432 304
+:geoo/construction/pillar_32: 432 272
+:geoo/sandstone/ribbon_end: 416 272
+:geoo/sandstone/ribbon_end: 448 272
+:geoo/sandstone/ribbon_main: 256 240
+:geoo/sandstone/ribbon_main: 288 240
+:geoo/sandstone/ribbon_main: 320 240
+:geoo/sandstone/ribbon_main: 352 240
+:geoo/sandstone/ribbon_main: 384 240
+:geoo/sandstone/ribbon_main: 416 240
+:geoo/sandstone/ribbon_main: 448 240
+:geoo/construction/pillar_32: 208 304
+:geoo/construction/pillar_32: 208 336
+:geoo/construction/pillar_32: 432 336
+:geoo/construction/rod_steel/straight32.S: 384 160 rrr
+:geoo/construction/rod_steel/straight32.S: 384 128 rrr
+:geoo/construction/rod_steel/straight32.S: 384 96 rrr
+:geoo/construction/rod_steel/straight32.S: 384 64 rrr
+:proxima/tile/spheres/goldsmall: 372 38
+:geoo/abstract/pipes/central2: 372 98
+:matt/earth/18: 407 101 fr
+:geoo/abstract/pipes/central2: 404 98
+:geoo/abstract/pipes/central2: 340 98
+:geoo/abstract/pipes/central2: 356 148
+:geoo/abstract/pipes/central2: 388 148
+:geoo/abstract/pipes/central2: 420 148
+:geoo/abstract/pipes/central2: 402 196
+:geoo/abstract/pipes/central2: 434 196
+:geoo/abstract/pipes/central2: 342 196
+:geoo/abstract/pipes/central2: 310 196
+:geoo/abstract/pipes/central2: 372 196
+:simon/desert/column_1: 404 128
+:matt/earth/18: 392 110
+:matt/earth/18: 418 112

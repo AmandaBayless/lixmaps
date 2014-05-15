@@ -1,4 +1,4 @@
-$BUILT 2014-05-11 18:08:40
+$BUILT 2014-05-14 13:26:51
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Use Bombs Wisely (2p)
@@ -67,7 +67,6 @@ $ENGLISH Use Bombs Wisely (2p)
 :geoo/construction/rod_steel/straight_diagd32.S: 84 298 frr
 :geoo/construction/rod_steel/straight_diagd32.S: 52 330 frr
 :matt/earth/30: 544 256 rrr
-:matt/earth/30: 592 304 rrr
 :geoo/construction/rod_steel/link.S: 376 80
 :geoo/construction/rod_steel/straight_diagd32.S: 308 74 frr
 :geoo/construction/rod_steel/link_du_h.S: 336 68
@@ -111,7 +110,6 @@ $ENGLISH Use Bombs Wisely (2p)
 :geoo/construction/rod_steel/straight_diagd32.S: 724 298 frr
 :geoo/construction/rod_steel/straight_diagd32.S: 692 330 frr
 :matt/earth/30: 1184 256 rrr
-:matt/earth/30: 1232 304 rrr
 :geoo/construction/rod_steel/link.S: 1016 80
 :geoo/construction/rod_steel/straight_diagd32.S: 948 74 frr
 :geoo/construction/rod_steel/link_du_h.S: 976 68
@@ -133,3 +131,7 @@ $ENGLISH Use Bombs Wisely (2p)
 :geoo/construction/rod_steel/end_rect_dd.S: 836 361
 :geoo/construction/rod_steel/straight_diagu32.S: 672 110
 :matt/earth/30: 700 62
+:geoo/construction/rod_steel/straight_diagd32.S: 612 320
+:matt/earth/30: 570 282 rrr
+:geoo/construction/rod_steel/straight_diagd32.S: 1252 320
+:matt/earth/30: 1208 280 rrr
