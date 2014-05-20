@@ -1,4 +1,4 @@
-$BUILT 2014-05-11 01:47:04
+$BUILT 2014-05-11 18:55:20
 $AUTHOR Amanda
 $GERMAN Lacherlich Klippen
 $ENGLISH The Cliffs of Insanity
@@ -25,7 +25,7 @@ $ENGLISH The Cliffs of Insanity
 #JUMPER 50
 #CUBER 20
 #FLOATER 30
-#NOTHING 0
+#PLATFORMER 50
 #NOTHING 0
 #NOTHING 0
 #NOTHING 0
@@ -39,8 +39,8 @@ $ENGLISH The Cliffs of Insanity
 :matt/goldmine/crate64: 647 222
 :matt/goldmine/explosivecrate: 669 286
 :matt/goldmine/planksupport: 508 73
-:matt/earth/10: 460 175 fr
 :matt/goldmine/tracks: 525 182 d
+:matt/earth/10: 460 175 fr
 :matt/earth/05: 622 159
 :matt/steel/48x48.S: 673 174
 :matt/earth/18: 742 342
