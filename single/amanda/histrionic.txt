@@ -1,0 +1,69 @@
+$BUILT 2014-06-11 15:17:08
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Histrionic
+
+#SIZE_X 640
+#SIZE_Y 256
+#TORUS_X 0
+#TORUS_Y 1
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 2
+#REQUIRED 1
+#SPAWN_INTERVAL 96
+#SPAWN_INTERVAL_FAST 4
+
+#CUBER 1
+#BASHER 1
+#BUILDER 2
+#JUMPER 2
+#FLOATER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 248 64
+
+:geoo/abstract/goal.G: 280 0
+
+:matt/marble/01e_1: 304 96
+:matt/marble/01e_1: 320 96
+:matt/marble/01e_1: 336 96
+:matt/marble/01d: 304 48
+:matt/marble/01d: 288 48
+:matt/marble/01d: 272 48
+:matt/marble/01c: 352 144
+:matt/marble/01c: 368 144
+:matt/marble/01c: 384 144
+:matt/marble/01c: 240 96
+:matt/marble/01c: 256 96
+:matt/marble/01c: 272 96
+:matt/marble/01e_1: 224 144
+:matt/marble/01e_1: 240 144
+:matt/marble/01e_1: 256 144
+:matt/marble/01d: 320 144
+:matt/marble/01d: 304 144
+:matt/marble/01d: 288 144
+:matt/marble/01e_1: 304 192
+:matt/marble/01e_1: 320 192
+:matt/marble/01e_1: 336 192
+:matt/marble/01c: 240 192
+:matt/marble/01c: 256 192
+:matt/marble/01c: 272 192
+:matt/marble/01d: 368 240
+:matt/marble/01d: 352 240
+:matt/marble/01d: 336 240
+:matt/marble/01c: 368 192
+:matt/marble/01c: 384 192
+:matt/marble/01c: 400 192
+:matt/marble/01e_1: 272 240
+:matt/marble/01e_1: 288 240
+:matt/marble/01e_1: 304 240
