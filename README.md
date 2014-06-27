@@ -1,4 +1,4 @@
-lixmaps
+lixmaps (2014-06 release)
 =======
 
-This is where I store the lix maps that I create. 
+These are the network maps selected for the June 2014 release.
