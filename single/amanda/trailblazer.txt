@@ -1,0 +1,111 @@
+$BUILT 2014-06-16 02:04:55
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Trailblazer
+
+#SIZE_X 1040
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 30
+#REQUIRED 20
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 20
+#CLIMBER 10
+#BLOCKER 10
+#PLATFORMER 10
+#MINER 20
+#BASHER 10
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/bricks/Hatch.H: 224 240
+
+:matt/bricks/Goal.G: 864 224
+
+:matt/bricks/02: 128 336
+:matt/bricks/02: 192 336
+:matt/bricks/02: 256 336
+:matt/bricks/02: 320 336
+:matt/bricks/02: 64 336
+:matt/bricks/02: 64 304
+:matt/bricks/02: 64 272
+:matt/bricks/02: 64 240
+:matt/bricks/02: 384 336
+:matt/bricks/02: 384 304
+:matt/bricks/02: 384 272
+:matt/bricks/02: 384 240
+:matt/bricks/06: 128 240
+:matt/bricks/02a: 0 336
+:matt/bricks/02a: 0 304
+:matt/bricks/02a: 0 272
+:matt/bricks/02a: 0 240
+:matt/bricks/03: 128 176
+:matt/bricks/03: 128 112
+:matt/bricks/03a: 0 176
+:matt/bricks/07: 64 176
+:matt/bricks/06a: 64 176
+:matt/bricks/03a: 64 112
+:matt/bricks/03a: 0 112
+:matt/bricks/02: 384 208
+:matt/bricks/02: 384 176
+:matt/bricks/02a: 0 368
+:matt/bricks/02: 448 272
+:matt/bricks/02: 416 208
+:matt/bricks/02: 416 176
+:matt/bricks/06: 480 176
+:matt/bricks/02: 512 336
+:matt/bricks/02: 512 368
+:geoo/steel/dark_64x32o.S: 448 304
+:geoo/steel/dark_64x32o.S: 448 336
+:geoo/steel/dark_64x32o.S: 64 368
+:geoo/steel/dark_64x32o.S: 128 368
+:geoo/steel/dark_64x32o.S: 192 368
+:geoo/steel/dark_64x32o.S: 256 368
+:geoo/steel/dark_64x32o.S: 320 368
+:geoo/steel/dark_64x32o.S: 384 368
+:geoo/steel/dark_64x32o.S: 448 368
+:matt/bricks/02: 512 304
+:matt/bricks/02: 512 272
+:matt/bricks/02: 416 240
+:matt/bricks/04: 576 272
+:matt/bricks/04: 640 336
+:matt/bricks/02: 576 336
+:matt/bricks/02: 576 368
+:geoo/steel/dark_64x64o.S: 816 336
+:geoo/steel/dark_32x64o.S: 816 272
+:matt/bricks/03b: 848 272
+:matt/bricks/03b: 912 272
+:matt/bricks/02b: 880 336
+:matt/bricks/02b: 880 368
+:matt/bricks/02b: 944 336
+:matt/bricks/02b: 944 368
+:matt/bricks/03b: 1008 336
+:matt/bricks/03b: 976 272
+:matt/bricks/03b: 1008 208
+:matt/bricks/03b: 1008 144
+:matt/bricks/05b: 944 144
+:matt/bricks/03b: 944 80
+:matt/bricks/03b: 944 16
+:matt/bricks/03b: 1008 80
+:matt/bricks/03b: 1008 16
+:matt/bricks/03b: 1008 -48
+:matt/bricks/03b: 944 -48
+:matt/bricks/04: 480 112
+:matt/bricks/04: 416 48
+:matt/bricks/12: 384 48
+:matt/bricks/12: 384 80
+:matt/bricks/12: 384 112
+:matt/bricks/12: 384 144
+:matt/bricks/03: 416 112

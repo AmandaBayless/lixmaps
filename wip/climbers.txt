@@ -1,0 +1,144 @@
+$BUILT 2014-06-15 16:07:33
+$AUTHOR 
+$GERMAN 
+$ENGLISH 
+
+#SIZE_X 960
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 30
+#REQUIRED 20
+#SPAWN_INTERVAL 32
+#SPAWN_INTERVAL_FAST 4
+
+#CLIMBER 32
+#FLOATER 8
+#BASHER 128
+#DIGGER 24
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 560 144 r
+
+:geoo/abstract/goal.G: 48 208
+
+:matt/marble/05a: 248 224
+:geoo/construction/fence_32x32.S: 248 256
+:matt/marble/05a: 224 256
+:matt/marble/05a: 336 160
+:matt/marble/05a: 256 192
+:matt/marble/05a: 352 192
+:geoo/construction/platform.S: 280 224 fr
+:geoo/construction/platform.S: 280 256 fr
+:matt/marble/05a: 208 288
+:matt/marble/01e_1: 258 256 d
+:geoo/construction/platform_single.S: 256 264 fr
+:geoo/construction/platform_single.S: 256 272 fr
+:geoo/construction/platform_single.S: 256 280 fr
+:matt/marble/05a: 224 320
+:matt/marble/05a: 256 320
+:matt/marble/05a: 288 320
+:matt/marble/05a: 320 320
+:matt/marble/05a: 272 160
+:matt/marble/05a: 368 224
+:matt/marble/05a: 384 256
+:matt/marble/05a: 384 320
+:matt/marble/05a: 352 320
+:matt/marble/05a: 304 160
+:matt/marble/05a: 400 288
+:matt/marble/05a: 416 320
+:geoo/construction/squarebrick_large: 464 224
+:matt/marble/05a: 448 320
+:matt/marble/05a: 480 320
+:geoo/construction/squarebrick_large: 480 256
+:geoo/construction/squarebrick_large: 512 256
+:geoo/construction/squarebrick_large: 480 192
+:geoo/construction/squarebrick_large: 512 192
+:geoo/construction/squarebrick_large: 528 224
+:geoo/construction/stairsbrick_rd_8: 480 160
+:geoo/construction/squarebrick_large: 496 160
+:geoo/construction/squarebrick_large: 560 224
+:geoo/construction/squarebrick_large: 592 224
+:geoo/construction/squarebrick_large: 512 128
+:geoo/construction/squarebrick_large: 528 96
+:geoo/construction/squarebrick_large: 560 96
+:geoo/construction/squarebrick_large: 592 96
+:geoo/construction/squarebrick_large: 608 128
+:geoo/construction/squarebrick_large: 624 160
+:geoo/construction/squarebrick_large: 608 192
+:geoo/construction/squarebrick_large: 608 256
+:geoo/construction/squarebrick_large: 656 224
+:geoo/construction/squarebrick_large: 640 256
+:geoo/construction/squarebrick_large: 640 192
+:geoo/construction/squarebrick_large: 496 288
+:geoo/construction/squarebrick_large: 624 288
+:matt/marble/05a: 512 320
+:matt/marble/05a: 544 320
+:matt/marble/05a: 576 320
+:matt/marble/05a: 608 320
+:matt/marble/01e_1: 264 256 d
+:geoo/construction/platform_single.S: 256 256 fr
+:geoo/steel/16x32o.S: 544 192
+:geoo/steel/16x32o.S: 592 192
+:geoo/steel/dark_32x16o.S: 544 224
+:geoo/steel/dark_32x16o.S: 576 224
+:geoo/construction/stairsbrick_rd_32: 416 128
+:geoo/construction/stairsbrick_rd_32: 352 96
+:matt/marble/05a: 336 96
+:matt/marble/05a: 320 64
+:geoo/construction/squarebrick_large: 512 64
+:geoo/construction/squarebrick_large: 576 64
+:matt/marble/05a: 336 32
+:matt/marble/05a: 288 64
+:matt/marble/05a: 208 32
+:matt/marble/05a: 256 64
+:matt/marble/05a: 176 96
+:matt/marble/05a: 160 128
+:matt/marble/05a: 176 160
+:matt/marble/05a: 224 64
+:matt/marble/05a: 192 64
+:matt/marble/05a: 224 192
+:matt/marble/05a: 192 192
+:matt/marble/05a: 320 128
+:geoo/construction/squarebrick_large: 176 288
+:geoo/construction/squarebrick_large: 160 320
+:geoo/construction/squarebrick_large: 128 320
+:geoo/construction/squarebrick_large: 96 320
+:geoo/construction/squarebrick_large: 144 160
+:geoo/construction/squarebrick_large: 128 192
+:geoo/construction/squarebrick_large: 112 224
+:matt/goldmine/plank: 32 256
+:geoo/construction/squarebrick_large: 64 256
+:geoo/construction/squarebrick_large: 80 288
+:geoo/construction/squarebrick_large: 64 320
+:geoo/construction/fence_32x32.S: 192 64
+:geoo/construction/fence_32x32.S: 160 192
+:geoo/construction/fence_32x32.S: 144 224
+:geoo/construction/fence_32x32.S: 176 224
+:matt/goldmine/10: 180 244 d
+:matt/goldmine/10: 190 234 d
+:matt/goldmine/10: 198 226 d
+:geoo/construction/squarebrick_large: 32 256
+:geoo/construction/squarebrick_large: 16 288
+:geoo/construction/squarebrick_large: 32 320
+:geoo/construction/squarebrick_large: 96 192
+:geoo/construction/squarebrick_large: 80 160
+:geoo/construction/fence_32x32.S: 112 128
+:geoo/construction/fence_32x32.S: 144 96
+:geoo/construction/fence_32x32.S: 272 32
+:geoo/construction/fence_32x32.S: 224 160
+:geoo/construction/fence_32x32.S: 560 288
+:geoo/construction/fence_32x32.S: 304 288
+:geoo/construction/fence_32x32.S: 336 256

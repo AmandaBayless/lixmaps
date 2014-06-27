@@ -1,4 +1,4 @@
-$BUILT 2014-04-15 20:21:30
+$BUILT 2014-06-24 16:43:43
 $AUTHOR Amanda
 $GERMAN 
 $ENGLISH Another Lix In The Wall (4p)
@@ -30,23 +30,21 @@ $ENGLISH Another Lix In The Wall (4p)
 #CUBER 5
 #NOTHING 0
 
-:geoo/sandstone/Hatch.H: 48 176
+:geoo/sandstone/Hatch.H: 160 176
 :geoo/abstract/hatch.H: 560 48 r
 :geoo/abstract/hatch.H: 1456 48 r
-:geoo/abstract/hatch.H: 992 48 r
+:geoo/abstract/hatch.H: 1008 48 r
 
 :geoo/sandstone/Goal.G: 1440 208
-:geoo/abstract/goal.G: 672 320
-:geoo/abstract/goal.G: 128 320
 :geoo/abstract/goal.G: 1120 320
+:geoo/abstract/goal.G: 688 320
+:geoo/abstract/goal.G: 128 320
 
 :geoo/sandstone/64x32: 128 128
 :geoo/sandstone/64x32: 192 128
 :geoo/sandstone/64x32: 256 128
 :geoo/sandstone/64x32: 320 128
 :geoo/sandstone/64x32: 384 128
-:geoo/sandstone/64x32: 320 272
-:geoo/sandstone/64x32: 384 272
 :geoo/sandstone/64x32: 448 272
 :geoo/sandstone/64x32: 32 96
 :geoo/sandstone/64x32: 96 96
@@ -59,7 +57,7 @@ $ENGLISH Another Lix In The Wall (4p)
 :geoo/steel/64x32o.S: 0 272
 :geoo/steel/64x32o.S: 64 272
 :geoo/steel/64x32o.S: 128 272
-:geoo/steel/64x32o.S: 192 272
+:geoo/steel/64x32o.S: 224 272
 :geoo/steel/64x32o.S: 576 272
 :geoo/steel/64x32o.S: 512 272
 :geoo/steel/64x32o.S: 0 128
@@ -100,7 +98,6 @@ $ENGLISH Another Lix In The Wall (4p)
 :geoo/steel/16x32o.S: 256 368
 :geoo/steel/16x32o.S: 416 368
 :geoo/sandstone/32x32: 160 64
-:geoo/steel/32x32o.S: 496 96
 :geoo/steel/32x32o.S: 576 0
 :geoo/steel/64x32o.S: 512 0
 :geoo/steel/32x32o.S: 608 0
@@ -140,7 +137,6 @@ $ENGLISH Another Lix In The Wall (4p)
 :geoo/steel/32x32o.S: 1264 368
 :geoo/steel/32x32o.S: 1312 368
 :geoo/sandstone/64x32: 1216 272
-:geoo/sandstone/64x32: 1280 272
 :geoo/sandstone/64x32: 1344 272
 :geoo/sandstone/pillar_bottom_ext: 352 112
 :geoo/sandstone/pillar_bottom: 368 80
@@ -149,7 +145,6 @@ $ENGLISH Another Lix In The Wall (4p)
 :geoo/sandstone/pillar_bottom_ext: 256 112
 :geoo/sandstone/pillar_bottom: 272 80
 :geoo/sandstone/pillar_top_jaggedr: 272 48
-:geoo/sandstone/64x32: 256 272
 :geoo/sandstone/64x32: 1152 128
 :geoo/sandstone/64x32: 1152 0
 :geoo/steel/64x32o.S: 1088 128
@@ -178,7 +173,6 @@ $ENGLISH Another Lix In The Wall (4p)
 :geoo/steel/64x32o.S: 832 368
 :geoo/steel/64x32o.S: 768 368
 :geoo/steel/32x32o.S: 896 368
-:geoo/sandstone/64x32: 832 272
 :geoo/steel/16x32o.S: 1056 368
 :geoo/steel/32x32o.S: 1072 368
 :geoo/steel/16x32o.S: 1296 368
@@ -190,10 +184,7 @@ $ENGLISH Another Lix In The Wall (4p)
 :geoo/steel/64x32o.S: 832 128
 :geoo/steel/64x32o.S: 832 0
 :geoo/steel/64x32o.S: 896 0
-:geoo/steel/32x64o.S: 912 64
-:geoo/sandstone/32x32: 912 32
 :geoo/steel/64x32o.S: 768 272
-:geoo/steel/32x16o.S: 1392 112
 :geoo/steel/dark_32x48o.S: 1504 192
 :geoo/steel/dark_32x32o.S: 1504 160
 :geoo/steel/dark_32x32o.S: 1504 240
@@ -208,3 +199,19 @@ $ENGLISH Another Lix In The Wall (4p)
 :geoo/steel/dark_32x16o.S: 1504 336
 :geoo/steel/32x32o.S: 1472 272
 :geoo/steel/32x64o.S: 1408 304
+:geoo/sandstone/pillar_bottom_ext: 1248 112
+:geoo/sandstone/pillar_bottom: 1264 80
+:geoo/sandstone/pillar_top_shaded: 1264 48
+:geoo/sandstone/pillar_top_ext: 1248 32
+:geoo/steel/32x64o.S: 1392 64
+:geoo/steel/64x32o.S: 1280 272
+:geoo/steel/32x32o.S: 864 272
+:geoo/sandstone/32x32: 832 272
+:geoo/steel/64x32o.S: 384 272
+:geoo/steel/64x32o.S: 320 272
+:geoo/steel/32x32o.S: 192 272
+:geoo/sandstone/32x32: 288 272
+:geoo/sandstone/32x32: 1392 32
+:geoo/steel/32x32o.S: 496 80
+:geoo/steel/32x64o.S: 944 64
+:geoo/steel/32x16o.S: 496 112

@@ -1,0 +1,46 @@
+$BUILT 2014-06-24 20:29:43
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Sympathy for the Lix
+
+#SIZE_X 480
+#SIZE_Y 160
+#TORUS_X 0
+#TORUS_Y 1
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 20
+#INITIAL 50
+#REQUIRED 20
+#SPAWN_INTERVAL 22
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 2
+#JUMPER 8
+#CLIMBER 6
+#FLOATER 8
+#EXPLODER2 5
+#CUBER 4
+#BATTER 6
+#BUILDER 2
+#PLATFORMER 2
+#BASHER 2
+#MINER 1
+#DIGGER 1
+
+:geoo/abstract/hatch.H: 176 48
+
+:geoo/abstract/goal.G: 146 76
+
+:matt/underworld/00: 176 64 rrr
+:matt/underworld/05: 152 103
+:matt/underworld/02: 416 32
+:matt/underworld/01: 416 128
+:matt/underworld/01: 416 0
+:matt/underworld/02: 0 32
+:matt/underworld/01: 0 128
+:matt/underworld/01: 0 0
+:matt/steel/8x8.S: 158 122
+:matt/steel/8x8.S: 192 152
