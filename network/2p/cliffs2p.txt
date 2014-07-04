@@ -1,7 +1,7 @@
-$BUILT 2014-05-11 18:55:20
+$BUILT 2014-07-03 13:52:31
 $AUTHOR Amanda
-$GERMAN Lacherlich Klippen
-$ENGLISH The Cliffs of Insanity
+$GERMAN 
+$ENGLISH The Cliffs of Insanity (2p)
 
 #SIZE_X 992
 #SIZE_Y 400

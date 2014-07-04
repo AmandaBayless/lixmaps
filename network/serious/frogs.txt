@@ -1,0 +1,106 @@
+$BUILT 2014-07-01 21:43:15
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Frogs
+
+#SIZE_X 640
+#SIZE_Y 384
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 5
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 30
+
+#SECONDS 18
+#INITIAL 40
+#REQUIRED 16
+#SPAWN_INTERVAL 18
+#SPAWN_INTERVAL_FAST 4
+
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 128 128
+
+:geoo/abstract/goal.G: 456 162
+
+:amanda/forest/frog.T: 192 160
+:amanda/forest/frog_catch.T: 272 160
+:amanda/forest/frog.T: 352 160
+
+:matt/earth/03: 192 208
+:matt/earth/01: 448 224
+:matt/earth/03: 352 208
+:matt/earth/10: 272 208
+:matt/earth/10: 112 208
+:matt/goldmine/05: 297 336
+:matt/goldmine/07: 112 272
+:matt/oriental/07: 112 208
+:matt/oriental/07: 192 208
+:matt/oriental/07: 272 208
+:matt/goldmine/03: 256 288
+:matt/goldmine/04: 384 256
+:matt/oriental/07: 352 208
+:matt/oriental/07: 432 208
+:matt/earth/05: 224 -80 rr
+:matt/earth/20: 336 48 rrr
+:matt/earth/20: 336 -48 rrr
+:matt/oriental/trunk2: 584 232 rr
+:geoo/steel/silhouette_32x64.S: 608 256
+:geoo/steel/silhouette_32x64.S: 608 320
+:geoo/steel/silhouette_32x64.S: 608 192
+:geoo/steel/silhouette_32x64.S: 608 128
+:geoo/steel/silhouette_64x32.S: 112 -16
+:matt/goldmine/09: 225 285
+:geoo/steel/silhouette_64x32.S: 432 0
+:geoo/steel/16x16o.S: 216 208
+:geoo/steel/16x16o.S: 296 208
+:geoo/steel/16x16o.S: 376 208
+:geoo/steel/16x16o.S: 464 208
+:matt/oriental/branch3: 560 256
+:matt/oriental/branch4: 568 240
+:matt/oriental/bamboo_leaf2: 536 240 r
+:matt/oriental/bamboo_leaf3: 544 258
+:matt/oriental/bamboo_leaf1: 544 272 rrr
+:matt/oriental/trunk3: 576 258 rr
+:matt/oriental/trunk1: 558 304
+:matt/oriental/bamboo_leaf3: 556 350
+:matt/oriental/branch2: 530 334
+:matt/oriental/bamboo_leaf2: 500 340 r
+:matt/oriental/bamboo_leaf3: 526 334
+:matt/oriental/bamboo_leaf2: 550 340 r
+:geoo/steel/silhouette_32x64.S: 608 64
+:geoo/steel/silhouette_32x64.S: 608 0
+:matt/goldmine/05: 336 336
+:geoo/steel/silhouette_64x32.S: 368 -16
+:geoo/steel/silhouette_64x32.S: 304 0
+:matt/goldmine/03: 160 352
+:geoo/steel/silhouette_64x32.S: 240 -16
+:geoo/steel/silhouette_64x32.S: 176 0
+:matt/goldmine/02: 287 303 fr
+:matt/goldmine/10: 376 307
+:geoo/steel/silhouette_32x64.S: 0 128
+:geoo/steel/silhouette_32x64.S: 0 192
+:geoo/steel/silhouette_32x64.S: 0 256
+:geoo/steel/silhouette_32x64.S: 0 320
+:matt/underworld/01: 32 64
+:matt/underworld/01: 96 64
+:matt/underworld/00: 32 96
+:matt/underworld/09b: 136 54 frr
+:matt/underworld/09a: 74 54
+:matt/underworld/09a: 20 54 frr
+:geoo/steel/silhouette_32x64.S: 0 0
+:geoo/steel/silhouette_32x64.S: 0 64
+:geoo/steel/32x16o.S: 128 208
+:geoo/steel/dark_32x16o.S: 96 208
+:geoo/steel/dark_32x16o.S: 112 224

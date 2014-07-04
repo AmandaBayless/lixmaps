@@ -1,4 +1,4 @@
-$BUILT 2014-06-28 17:45:02
+$BUILT 2014-06-28 17:24:20
 $AUTHOR Amanda
 $GERMAN Schädel, Schlamm und Stahl
 $ENGLISH Skulls, Sludge, and Steel
@@ -12,16 +12,16 @@ $ENGLISH Skulls, Sludge, and Steel
 #BACKGROUND_BLUE 0
 
 #SECONDS 0
-#INITIAL 6
-#REQUIRED 5
-#SPAWN_INTERVAL 35
-#SPAWN_INTERVAL_FAST 35
+#INITIAL 20
+#REQUIRED 15
+#SPAWN_INTERVAL 96
+#SPAWN_INTERVAL_FAST 96
 
 #CLIMBER 4
 #FLOATER 4
 #BUILDER 4
 #MINER 4
-#CUBER 1
+#CUBER 4
 #BURNER -1
 #NOTHING 0
 #NOTHING 0
@@ -261,7 +261,7 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax_details_drip: 881 147
 :amanda/occult/occult_wax_details_drip: 923 145
 :amanda/occult/occult_wax_details_drip_b: 910 149
-:amanda/occult/occult_wax_details_sunken_cube: 58 256
+:amanda/occult/occult_wax_details_sunken_cube: 74 256
 :amanda/steel/steel_flange_right24x16.S: 304 128
 :amanda/steel/steel8x16.S: 336 128
 :amanda/steel/steel16x16.S: 304 272
@@ -272,4 +272,3 @@ $ENGLISH Skulls, Sludge, and Steel
 :amanda/occult/occult_wax_details_drip: 566 235
 :amanda/steel/steel24x16.S: 304 208 fr
 :amanda/steel/steel8x16.S: 304 232 fr
-:amanda/occult/occult_cube: 72 244

@@ -1,0 +1,54 @@
+$BUILT 2014-07-01 18:56:24
+$AUTHOR Amanda
+$GERMAN 
+$ENGLISH Frog tester
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 130
+#REQUIRED 20
+#SPAWN_INTERVAL 12
+#SPAWN_INTERVAL_FAST 1
+
+#JUMPER -1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:geoo/abstract/hatch.H: 64 176
+:geoo/abstract/hatch.H: 256 176
+
+:geoo/abstract/goal.G: 208 192
+
+:amanda/forest/frog.T: 128 192
+:amanda/forest/frog_happy.T: 304 192
+
+:amanda/water/tar.W: 480 256
+:amanda/water/tar.W: 608 256
+:amanda/water/tar.W: -80 256
+
+:matt/marble/07d: 48 240
+:matt/marble/07d: 96 240
+:matt/marble/07d: 144 240
+:matt/marble/07d: 192 240
+:matt/marble/14d: 48 208
+:matt/marble/07d: 240 240
+:matt/marble/07d: 288 240
+:matt/marble/07d: 336 240
+:matt/marble/07d: 384 240
+:matt/marble/07d: 432 240
