@@ -1,0 +1,89 @@
+$BUILT 2014-07-04 18:36:50
+$AUTHOR Amanda
+$GERMAN Why is Lix set for German!?
+$ENGLISH One For Me, One For You (4p)
+
+#SIZE_X 224
+#SIZE_Y 448
+#TORUS_X 1
+#TORUS_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 40
+#INITIAL 120
+#REQUIRED 20
+#SPAWN_INTERVAL 6
+#SPAWN_INTERVAL_FAST 4
+
+#BASHER 5
+#MINER -1
+#DIGGER -1
+#BATTER -1
+#BLOCKER 4
+#PLATFORMER 24
+#BUILDER 2
+#CUBER 1
+#WALKER 60
+#JUMPER 20
+#CLIMBER 0
+#FLOATER 2
+
+:matt/marble/Hatch.H: 8 16
+
+:matt/underworld/Goal.G: 192 368
+
+:amanda/forest/frog.T: 8 40
+:amanda/forest/frog.T: 8 240
+:amanda/forest/frog_catch.T: 152 240
+:amanda/forest/frog_happy.T: 119 305
+
+:matt/marble/05b: 0 120
+:geoo/steel/dark_32x32o.S: 0 88
+:geoo/steel/dark_32x32o.S: 48 88
+:matt/marble/05b: 48 120
+:matt/marble/05b: 24 152
+:matt/marble/05d: 24 184
+:geoo/steel/dark_32x32o.S: 56 184
+:geoo/steel/dark_32x32o.S: 88 184
+:geoo/steel/dark_32x32o.S: 120 184
+:geoo/steel/dark_32x32o.S: -8 184
+:geoo/steel/dark_64x32o.S: 8 288
+:geoo/steel/dark_64x32o.S: 72 288
+:geoo/steel/32x16o.S: 42 216
+:geoo/steel/32x16o.S: 6 216
+:matt/marble/05c: 136 288
+:geoo/steel/32x32o.S: 168 288
+:geoo/steel/32x32o.S: 152 184
+:geoo/steel/32x32o.S: 184 184
+:matt/marble/03d: 136 152
+:matt/marble/03d: 168 152
+:matt/marble/03d: 168 120
+:matt/marble/03d: 136 120
+:matt/marble/03d: 136 88
+:matt/marble/03d: 168 88
+:matt/marble/03d: 136 56
+:matt/marble/03d: 168 56
+:matt/marble/03d: 136 24
+:matt/marble/03d: 168 24
+:geoo/steel/32x16o.S: 0 8
+:geoo/steel/32x16o.S: 32 8
+:geoo/steel/32x16o.S: 64 8
+:geoo/steel/32x16o.S: 96 8
+:geoo/steel/32x16o.S: 128 8
+:geoo/steel/32x16o.S: 160 8
+:geoo/steel/32x16o.S: 192 8
+:geoo/steel/32x32o.S: -24 288
+:geoo/steel/dark_32x16o.S: 136 432
+:geoo/steel/dark_32x16o.S: 168 432
+:geoo/steel/dark_32x16o.S: 200 432
+:geoo/steel/dark_32x16o.S: 8 432
+:geoo/steel/dark_32x16o.S: 40 432
+:geoo/steel/dark_32x16o.S: 72 432
+:geoo/steel/dark_32x16o.S: 104 432
+:matt/beach/decor/palmtree: 110 339
+:geoo/steel/dark_32x32o.S: 48 320
+:geoo/steel/dark_32x32o.S: 48 352
+:geoo/steel/dark_32x32o.S: 48 400
+:geoo/steel/dark_32x16o.S: 48 384
