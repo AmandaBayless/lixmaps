@@ -1,6 +1,6 @@
 $BUILT 2014-03-02 18:28:11
 $AUTHOR Amanda
-$GERMAN Frendischsmesen (2p)
+$GERMAN
 $ENGLISH Prolix (2p)
 
 #SIZE_X 1280

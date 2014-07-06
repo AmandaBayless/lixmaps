@@ -1,6 +1,6 @@
 $BUILT 2014-04-04 23:36:09
 $AUTHOR Amanda
-$GERMAN Vorwarts (3p)
+$GERMAN
 $ENGLISH Prograde (3p)
 
 #SIZE_X 2400

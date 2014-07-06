@@ -1,6 +1,6 @@
 $BUILT 2014-04-17 23:58:29
 $AUTHOR Amanda
-$GERMAN Apokalix Jetzt (2p)
+$GERMAN
 $ENGLISH Apocalix Now (2p)
 
 #SIZE_X 160
